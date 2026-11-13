@@ -1,0 +1,986 @@
+[
+{
+"n": 1,
+"t": 0.0,
+"fade": 0,
+"label": "Preset - blackout"
+},
+{
+"n": 2,
+"t": 0.07,
+"fade": 0.15,
+"label": "Ignition - floor beams up"
+},
+{
+"n": 3,
+"t": 0.836,
+"fade": 8.5,
+"label": "Cathedral closes over 9s"
+},
+{
+"n": 4,
+"t": 5.503,
+"fade": 2.5,
+"label": "Back truss cyan into house"
+},
+{
+"n": 5,
+"t": 10.147,
+"fade": 1.5,
+"label": "Build - magenta gobo prism"
+},
+{
+"n": 6,
+"t": 13.235,
+"fade": 3.0,
+"label": "Fan opens, front truss into house"
+},
+{
+"n": 7,
+"t": 16.324,
+"fade": 2.0,
+"label": "Towers on, mid truss crosses"
+},
+{
+"n": 8,
+"t": 17.879,
+"fade": 1.2,
+"label": "Pull back to cathedral"
+},
+{
+"n": 9,
+"t": 19.412,
+"fade": 0,
+"label": "Hit run 1"
+},
+{
+"n": 10,
+"t": 19.807,
+"fade": 0,
+"label": "Hit run 2"
+},
+{
+"n": 11,
+"t": 20.387,
+"fade": 0,
+"label": "Hit run 3"
+},
+{
+"n": 12,
+"t": 20.782,
+"fade": 0,
+"label": "Hit run 4"
+},
+{
+"n": 13,
+"t": 21.153,
+"fade": 0,
+"label": "Hit run 5"
+},
+{
+"n": 14,
+"t": 21.734,
+"fade": 0,
+"label": "Hit run 6"
+},
+{
+"n": 15,
+"t": 22.5,
+"fade": 1.0,
+"label": "Warm build"
+},
+{
+"n": 16,
+"t": 25.612,
+"fade": 1.5,
+"label": "Dip - everything converges"
+},
+{
+"n": 17,
+"t": 27.167,
+"fade": 3.0,
+"label": "RISER - white surge"
+},
+{
+"n": 18,
+"t": 28.723,
+"fade": 0,
+"label": "Pre-drop stab 1"
+},
+{
+"n": 19,
+"t": 29.118,
+"fade": 0,
+"label": "Pre-drop stab 2"
+},
+{
+"n": 20,
+"t": 29.489,
+"fade": 0,
+"label": "Pre-drop stab 3"
+},
+{
+"n": 21,
+"t": 29.884,
+"fade": 0,
+"label": "SUCK-OUT blackout"
+},
+{
+"n": 22,
+"t": 30.279,
+"fade": 0,
+"label": "DROP - white blinder"
+},
+{
+"n": 23,
+"t": 30.65,
+"fade": 0.4,
+"label": "Chorus1 bar 20 - punch"
+},
+{
+"n": 24,
+"t": 30.8475,
+"fade": 0.35,
+"label": "Chorus1 bar 20 - decay"
+},
+{
+"n": 25,
+"t": 31.835,
+"fade": 0,
+"label": "Chorus1 bar 21 - left"
+},
+{
+"n": 26,
+"t": 32.601,
+"fade": 0,
+"label": "Chorus1 bar 21 - right"
+},
+{
+"n": 27,
+"t": 33.39,
+"fade": 0.25,
+"label": "Chorus1 bar 22 - punch"
+},
+{
+"n": 28,
+"t": 33.785,
+"fade": 0.35,
+"label": "Chorus1 bar 22 - decay"
+},
+{
+"n": 29,
+"t": 34.969,
+"fade": 0,
+"label": "Chorus1 bar 23 - left"
+},
+{
+"n": 30,
+"t": 35.805,
+"fade": 0,
+"label": "Chorus1 bar 23 - right"
+},
+{
+"n": 31,
+"t": 36.641,
+"fade": 0.25,
+"label": "Chorus1 bar 24 - punch"
+},
+{
+"n": 32,
+"t": 37.036,
+"fade": 0.35,
+"label": "Chorus1 bar 24 - decay"
+},
+{
+"n": 33,
+"t": 38.197,
+"fade": 0,
+"label": "Chorus1 bar 25 - left"
+},
+{
+"n": 34,
+"t": 38.986,
+"fade": 0,
+"label": "Chorus1 bar 25 - right"
+},
+{
+"n": 35,
+"t": 39.753,
+"fade": 0.25,
+"label": "Chorus1 bar 26 - punch"
+},
+{
+"n": 36,
+"t": 40.124,
+"fade": 0.35,
+"label": "Chorus1 bar 26 - decay"
+},
+{
+"n": 37,
+"t": 41.285,
+"fade": 0,
+"label": "Chorus1 bar 27 - left"
+},
+{
+"n": 38,
+"t": 42.075,
+"fade": 0,
+"label": "Chorus1 bar 27 - right"
+},
+{
+"n": 39,
+"t": 42.841,
+"fade": 0.25,
+"label": "Chorus1 bar 28 - punch"
+},
+{
+"n": 40,
+"t": 43.236,
+"fade": 0.35,
+"label": "Chorus1 bar 28 - decay"
+},
+{
+"n": 41,
+"t": 44.397,
+"fade": 0,
+"label": "Chorus1 bar 29 - left"
+},
+{
+"n": 42,
+"t": 45.163,
+"fade": 0,
+"label": "Chorus1 bar 29 - right"
+},
+{
+"n": 43,
+"t": 45.929,
+"fade": 0.25,
+"label": "Chorus1 bar 30 - punch"
+},
+{
+"n": 44,
+"t": 46.324,
+"fade": 0.35,
+"label": "Chorus1 bar 30 - decay"
+},
+{
+"n": 45,
+"t": 47.485,
+"fade": 0,
+"label": "Chorus1 bar 31 - left"
+},
+{
+"n": 46,
+"t": 48.274,
+"fade": 0,
+"label": "Chorus1 bar 31 - right"
+},
+{
+"n": 47,
+"t": 49.041,
+"fade": 0.25,
+"label": "Chorus1 bar 32 - punch"
+},
+{
+"n": 48,
+"t": 49.435,
+"fade": 0.35,
+"label": "Chorus1 bar 32 - decay"
+},
+{
+"n": 49,
+"t": 50.573,
+"fade": 0,
+"label": "Chorus1 bar 33 - left"
+},
+{
+"n": 50,
+"t": 51.363,
+"fade": 0,
+"label": "Chorus1 bar 33 - right"
+},
+{
+"n": 51,
+"t": 52.152,
+"fade": 0.25,
+"label": "Chorus1 bar 34 - punch"
+},
+{
+"n": 52,
+"t": 52.524,
+"fade": 0.35,
+"label": "Chorus1 bar 34 - decay"
+},
+{
+"n": 53,
+"t": 53.685,
+"fade": 0,
+"label": "Chorus1 bar 35 - left"
+},
+{
+"n": 54,
+"t": 54.428,
+"fade": 0,
+"label": "Chorus1 bar 35 - right"
+},
+{
+"n": 55,
+"t": 55.217,
+"fade": 0.2,
+"label": "Chorus1 bar 36 - final punch"
+},
+{
+"n": 56,
+"t": 55.612,
+"fade": 0.4,
+"label": "Chorus1 bar 36 - decay"
+},
+{
+"n": 57,
+"t": 56.819,
+"fade": 1.4,
+"label": "Chorus out - settle"
+},
+{
+"n": 58,
+"t": 58.514,
+"fade": 1.2,
+"label": "Verse2 - teal searchlights L"
+},
+{
+"n": 59,
+"t": 61.626,
+"fade": 2.8,
+"label": "Verse2 - sweep 2"
+},
+{
+"n": 60,
+"t": 64.714,
+"fade": 2.8,
+"label": "Verse2 - sweep 3"
+},
+{
+"n": 61,
+"t": 67.802,
+"fade": 2.8,
+"label": "Verse2 - sweep 4"
+},
+{
+"n": 62,
+"t": 70.914,
+"fade": 1.4,
+"label": "Verse2 - gather"
+},
+{
+"n": 63,
+"t": 72.469,
+"fade": 0.6,
+"label": "E - purple lift"
+},
+{
+"n": 64,
+"t": 74.025,
+"fade": 2.4,
+"label": "E - wave 1"
+},
+{
+"n": 65,
+"t": 77.113,
+"fade": 2.4,
+"label": "E - wave 2"
+},
+{
+"n": 66,
+"t": 80.202,
+"fade": 2.4,
+"label": "E - wave 3"
+},
+{
+"n": 67,
+"t": 81.73,
+"fade": 0,
+"label": "E hit 1 - left slams right"
+},
+{
+"n": 68,
+"t": 82.5,
+"fade": 0,
+"label": "E hit 2 - right slams left"
+},
+{
+"n": 69,
+"t": 83.29,
+"fade": 0,
+"label": "E hit 3 - centre"
+},
+{
+"n": 70,
+"t": 83.74,
+"fade": 0.8,
+"label": "E - recover"
+},
+{
+"n": 71,
+"t": 86.38,
+"fade": 0,
+"label": "E hit 4 - full white"
+},
+{
+"n": 72,
+"t": 86.68,
+"fade": 0.6,
+"label": "E - recover 2"
+},
+{
+"n": 73,
+"t": 89.49,
+"fade": 4.5,
+"label": "E - converge build"
+},
+{
+"n": 74,
+"t": 94.134,
+"fade": 0.8,
+"label": "Breakdown - lone centre beam"
+},
+{
+"n": 75,
+"t": 95.713,
+"fade": 1.5,
+"label": "Breakdown - breath"
+},
+{
+"n": 76,
+"t": 97.222,
+"fade": 3.0,
+"label": "RISER 2 - cathedral ignites"
+},
+{
+"n": 77,
+"t": 98.778,
+"fade": 0.2,
+"label": "RISER 2 - strobe accelerates"
+},
+{
+"n": 78,
+"t": 100.333,
+"fade": 0.4,
+"label": "Release - magenta"
+},
+{
+"n": 79,
+"t": 102.446,
+"fade": 0,
+"label": "Staccato 1"
+},
+{
+"n": 80,
+"t": 103.027,
+"fade": 0,
+"label": "Staccato 2"
+},
+{
+"n": 81,
+"t": 103.422,
+"fade": 0,
+"label": "Staccato 3"
+},
+{
+"n": 82,
+"t": 103.793,
+"fade": 0,
+"label": "Staccato 4"
+},
+{
+"n": 83,
+"t": 104.374,
+"fade": 0,
+"label": "Staccato 5"
+},
+{
+"n": 84,
+"t": 104.768,
+"fade": 0,
+"label": "Staccato 6"
+},
+{
+"n": 85,
+"t": 105.349,
+"fade": 0,
+"label": "Staccato 7"
+},
+{
+"n": 86,
+"t": 105.744,
+"fade": 0,
+"label": "Staccato 8"
+},
+{
+"n": 87,
+"t": 106.115,
+"fade": 0,
+"label": "Staccato 9"
+},
+{
+"n": 88,
+"t": 106.51,
+"fade": 0,
+"label": "Staccato 10"
+},
+{
+"n": 89,
+"t": 107.09,
+"fade": 0,
+"label": "Staccato 11"
+},
+{
+"n": 90,
+"t": 107.485,
+"fade": 0,
+"label": "Staccato 12"
+},
+{
+"n": 91,
+"t": 107.857,
+"fade": 0,
+"label": "Staccato 13"
+},
+{
+"n": 92,
+"t": 108.437,
+"fade": 0,
+"label": "Staccato 14"
+},
+{
+"n": 93,
+"t": 108.832,
+"fade": 0,
+"label": "Staccato 15"
+},
+{
+"n": 94,
+"t": 109.227,
+"fade": 0,
+"label": "Staccato 16"
+},
+{
+"n": 95,
+"t": 109.807,
+"fade": 0,
+"label": "Staccato 17"
+},
+{
+"n": 96,
+"t": 110.179,
+"fade": 0,
+"label": "Staccato 18"
+},
+{
+"n": 97,
+"t": 110.573,
+"fade": 0,
+"label": "Staccato 19"
+},
+{
+"n": 98,
+"t": 111.154,
+"fade": 0,
+"label": "Staccato 20"
+},
+{
+"n": 99,
+"t": 111.549,
+"fade": 0,
+"label": "Staccato 21"
+},
+{
+"n": 100,
+"t": 111.92,
+"fade": 0,
+"label": "Staccato 22"
+},
+{
+"n": 101,
+"t": 112.315,
+"fade": 0,
+"label": "Staccato 23"
+},
+{
+"n": 102,
+"t": 112.895,
+"fade": 0,
+"label": "Staccato 24"
+},
+{
+"n": 103,
+"t": 113.476,
+"fade": 0,
+"label": "Staccato 25"
+},
+{
+"n": 104,
+"t": 113.871,
+"fade": 0,
+"label": "Staccato 26"
+},
+{
+"n": 105,
+"t": 114.265,
+"fade": 1.0,
+"label": "Build2 - cool"
+},
+{
+"n": 106,
+"t": 115.937,
+"fade": 2.6,
+"label": "Build2 - sweep 1"
+},
+{
+"n": 107,
+"t": 119.095,
+"fade": 2.6,
+"label": "Build2 - sweep 2"
+},
+{
+"n": 108,
+"t": 122.183,
+"fade": 2.6,
+"label": "Build2 - sweep 3"
+},
+{
+"n": 109,
+"t": 125.272,
+"fade": 1.0,
+"label": "Build2 - lift"
+},
+{
+"n": 110,
+"t": 128.383,
+"fade": 3.0,
+"label": "Build2 - whitening"
+},
+{
+"n": 111,
+"t": 131.471,
+"fade": 1.5,
+"label": "RISER 3 - full strobe"
+},
+{
+"n": 112,
+"t": 132.8295,
+"fade": 0,
+"label": "SUCK-OUT 2"
+},
+{
+"n": 113,
+"t": 133.027,
+"fade": 0,
+"label": "FINAL DROP - gold blinder"
+},
+{
+"n": 114,
+"t": 133.422,
+"fade": 0.25,
+"label": "Final bar 86 - colour 1"
+},
+{
+"n": 115,
+"t": 133.817,
+"fade": 0.3,
+"label": "Final bar 86 - decay"
+},
+{
+"n": 116,
+"t": 134.583,
+"fade": 0,
+"label": "Final bar 87 - row chase 1"
+},
+{
+"n": 117,
+"t": 134.954,
+"fade": 0,
+"label": "Final bar 87 - row chase 2"
+},
+{
+"n": 118,
+"t": 135.349,
+"fade": 0,
+"label": "Final bar 87 - row chase 3"
+},
+{
+"n": 119,
+"t": 135.744,
+"fade": 0,
+"label": "Final bar 87 - row chase 4"
+},
+{
+"n": 120,
+"t": 136.139,
+"fade": 0.25,
+"label": "Final bar 88 - colour 2"
+},
+{
+"n": 121,
+"t": 136.905,
+"fade": 0.3,
+"label": "Final bar 88 - decay"
+},
+{
+"n": 122,
+"t": 137.694,
+"fade": 0,
+"label": "Final bar 89 - row chase 1"
+},
+{
+"n": 123,
+"t": 138.066,
+"fade": 0,
+"label": "Final bar 89 - row chase 2"
+},
+{
+"n": 124,
+"t": 138.461,
+"fade": 0,
+"label": "Final bar 89 - row chase 3"
+},
+{
+"n": 125,
+"t": 138.855,
+"fade": 0,
+"label": "Final bar 89 - row chase 4"
+},
+{
+"n": 126,
+"t": 139.25,
+"fade": 0.25,
+"label": "Final bar 90 - colour 3"
+},
+{
+"n": 127,
+"t": 139.993,
+"fade": 0.3,
+"label": "Final bar 90 - decay"
+},
+{
+"n": 128,
+"t": 140.783,
+"fade": 0,
+"label": "Final bar 91 - row chase 1"
+},
+{
+"n": 129,
+"t": 141.177,
+"fade": 0,
+"label": "Final bar 91 - row chase 2"
+},
+{
+"n": 130,
+"t": 141.549,
+"fade": 0,
+"label": "Final bar 91 - row chase 3"
+},
+{
+"n": 131,
+"t": 141.944,
+"fade": 0,
+"label": "Final bar 91 - row chase 4"
+},
+{
+"n": 132,
+"t": 142.315,
+"fade": 0.25,
+"label": "Final bar 92 - colour 4"
+},
+{
+"n": 133,
+"t": 143.105,
+"fade": 0.3,
+"label": "Final bar 92 - decay"
+},
+{
+"n": 134,
+"t": 143.894,
+"fade": 0,
+"label": "Final bar 93 - row chase 1"
+},
+{
+"n": 135,
+"t": 144.289,
+"fade": 0,
+"label": "Final bar 93 - row chase 2"
+},
+{
+"n": 136,
+"t": 144.66,
+"fade": 0,
+"label": "Final bar 93 - row chase 3"
+},
+{
+"n": 137,
+"t": 145.032,
+"fade": 0,
+"label": "Final bar 93 - row chase 4"
+},
+{
+"n": 138,
+"t": 145.427,
+"fade": 0.25,
+"label": "Final bar 94 - colour 5"
+},
+{
+"n": 139,
+"t": 146.216,
+"fade": 0.3,
+"label": "Final bar 94 - decay"
+},
+{
+"n": 140,
+"t": 146.982,
+"fade": 0,
+"label": "Final bar 95 - row chase 1"
+},
+{
+"n": 141,
+"t": 147.377,
+"fade": 0,
+"label": "Final bar 95 - row chase 2"
+},
+{
+"n": 142,
+"t": 147.749,
+"fade": 0,
+"label": "Final bar 95 - row chase 3"
+},
+{
+"n": 143,
+"t": 148.12,
+"fade": 0,
+"label": "Final bar 95 - row chase 4"
+},
+{
+"n": 144,
+"t": 148.492,
+"fade": 0.25,
+"label": "Final bar 96 - colour 6"
+},
+{
+"n": 145,
+"t": 149.281,
+"fade": 0.3,
+"label": "Final bar 96 - decay"
+},
+{
+"n": 146,
+"t": 150.047,
+"fade": 0,
+"label": "Final bar 97 - row chase 1"
+},
+{
+"n": 147,
+"t": 150.442,
+"fade": 0,
+"label": "Final bar 97 - row chase 2"
+},
+{
+"n": 148,
+"t": 150.837,
+"fade": 0,
+"label": "Final bar 97 - row chase 3"
+},
+{
+"n": 149,
+"t": 151.232,
+"fade": 0,
+"label": "Final bar 97 - row chase 4"
+},
+{
+"n": 150,
+"t": 151.626,
+"fade": 0.25,
+"label": "Final bar 98 - colour 7"
+},
+{
+"n": 151,
+"t": 152.393,
+"fade": 0.3,
+"label": "Final bar 98 - decay"
+},
+{
+"n": 152,
+"t": 153.159,
+"fade": 0,
+"label": "Final bar 99 - row chase 1"
+},
+{
+"n": 153,
+"t": 153.554,
+"fade": 0,
+"label": "Final bar 99 - row chase 2"
+},
+{
+"n": 154,
+"t": 153.925,
+"fade": 0,
+"label": "Final bar 99 - row chase 3"
+},
+{
+"n": 155,
+"t": 154.32,
+"fade": 0,
+"label": "Final bar 99 - row chase 4"
+},
+{
+"n": 156,
+"t": 154.691,
+"fade": 0.25,
+"label": "Final bar 100 - colour 8"
+},
+{
+"n": 157,
+"t": 155.481,
+"fade": 0.3,
+"label": "Final bar 100 - decay"
+},
+{
+"n": 158,
+"t": 156.27,
+"fade": 0,
+"label": "Final bar 101 - row chase 1"
+},
+{
+"n": 159,
+"t": 156.642,
+"fade": 0,
+"label": "Final bar 101 - row chase 2"
+},
+{
+"n": 160,
+"t": 157.037,
+"fade": 0,
+"label": "Final bar 101 - row chase 3"
+},
+{
+"n": 161,
+"t": 157.408,
+"fade": 0,
+"label": "Final bar 101 - row chase 4"
+},
+{
+"n": 162,
+"t": 157.803,
+"fade": 0,
+"label": "END HIT - white"
+},
+{
+"n": 163,
+"t": 158.203,
+"fade": 2.5,
+"label": "Outro - floor beams fade to blue"
+},
+{
+"n": 164,
+"t": 163.0,
+"fade": 2.5,
+"label": "Blackout"
+}
+]

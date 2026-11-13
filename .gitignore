@@ -1,0 +1,12 @@
+# generated
+__pycache__/
+*.pyc
+out/
+reaper/reaper_job.txt
+reaper/play_sync.txt
+examples/*/fired.json
+*.log
+# audio is never committed (licensing) - bring your own
+*.wav
+*.mp3
+*.flac

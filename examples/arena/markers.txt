@@ -1,0 +1,102 @@
+0.000	Q1 PRESET
+0.218	Q2 ROAR - arena ignites
+0.420	Q3 Red searchlights
+1.120	Q4 Tower flick
+1.300	Q5 flick out
+2.720	Q6 HIT sparkle burst
+2.946	Q7 HIT left
+3.460	Q8 HIT right
+3.700	Q9 Red circle breathe
+4.717	Q10 Step hit 1
+4.870	Q11 Step hit 2
+5.013	Q12 Step hit 3
+5.155	Q13 Step hit 4
+5.712	Q14 TIERS rise red
+6.197	Q15 IMPACT 1 - white strobe
+6.420	Q16 into red cross
+6.763	Q17 Pulse snap 1
+6.920	Q18 Pulse snap 2
+7.065	Q19 Pulse snap 3
+7.207	Q20 Pulse snap 4
+7.956	Q21 CENTRE OUT
+8.368	Q22 IMPACT 2 - red cross strobe
+8.620	Q23 drop out
+9.131	Q24 cyan sparkle
+9.256	Q25 IMPACT 3 - white tunnel
+9.420	Q26 L-R SLAM
+9.850	Q27 breath
+10.150	Q28 TRUSS RUN + CHEVRON + TOWERS
+10.950	Q29 Cyan searchlights
+12.832	Q30 OH flash
+13.000	Q31 RISER - converge white
+14.991	Q32 Riser hit 1
+15.128	Q33 Riser hit 2
+15.256	Q34 Riser hit 3
+15.424	Q35 Riser hit 4
+15.620	Q36 Purple circles
+17.328	Q37 TICKING - chevron + towers
+17.903	Q38 ticking faster
+18.651	Q39 STROBE ALL
+19.350	Q40 silence
+19.815	Q41 BIG HIT - audience blinder
+20.050	Q42 gap
+20.657	Q43 RESTART - red slam
+20.843	Q44 WIPE BOUNCE + SNAP FAN-X
+21.731	Q45 Ticking - cyan glitter, blue search
+23.450	Q46 Ambient figure-8
+25.838	Q47 OH tunnel hit
+26.285	Q48 hi L
+26.535	Q49 hi R
+27.019	Q50 HIT full
+27.160	Q51 red settle
+27.603	Q52 TIERS red
+28.482	Q53 STROBE ODD-EVEN
+28.958	Q54 hit L
+29.071	Q55 hit R
+29.300	Q56 red low
+29.965	Q57 PULSE 1 wipe
+30.113	Q58 PULSE 2 wipe
+30.261	Q59 PULSE 3 wipe
+30.409	Q60 PULSE 4 wipe
+30.557	Q61 PULSE 5 wipe
+30.706	Q62 PULSE 6 ring
+30.854	Q63 PULSE 7 ring
+31.002	Q64 PULSE 8 ring
+31.150	Q65 PULSE 9 ring
+31.298	Q66 PULSE 10 ring
+31.446	Q67 PULSE 11 tier
+31.594	Q68 PULSE 12 tier
+31.742	Q69 PULSE 13 tier
+31.890	Q70 PULSE 14 tier
+32.100	Q71 pulse out
+32.482	Q72 sparkle burst
+33.234	Q73 OH cross
+33.628	Q74 V fan
+34.209	Q75 MEGA IMPACT - blinder + strobe
+34.550	Q76 red tunnel
+34.984	Q77 TL
+35.193	Q78 TR
+35.790	Q79 gap
+36.058	Q80 sparkle
+36.748	Q81 OH
+37.097	Q82 V
+37.300	Q83 CENTRE OUT build
+37.800	Q84 build faster
+38.100	Q85 build fastest
+38.333	Q86 pickup L
+38.638	Q87 pickup R
+38.748	Q88 pickup C
+38.922	Q89 HUGE IMPACT
+39.050	Q90 WIPE + SNAP + COLOUR RUN
+40.090	Q91 ROAR - FULL STAGE STROBE
+40.680	Q92 roar - red glitter, colour run
+41.270	Q93 roar - strobe, snap
+41.860	Q94 roar - odd/even, 4-way snap
+42.455	Q95 L-R SLAM
+43.323	Q96 red slam
+43.479	Q97 white slam
+43.670	Q98 gap
+43.912	Q99 TIERS rising
+44.850	Q100 FINAL POSE - sky fan
+45.500	Q101 fan to red
+47.000	Q102 fade out

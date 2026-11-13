@@ -1,0 +1,164 @@
+0.000	Q1 Preset - blackout
+0.070	Q2 Ignition - floor beams up
+0.836	Q3 Cathedral closes over 9s
+5.503	Q4 Back truss cyan into house
+10.147	Q5 Build - magenta gobo prism
+13.235	Q6 Fan opens, front truss into house
+16.324	Q7 Towers on, mid truss crosses
+17.879	Q8 Pull back to cathedral
+19.412	Q9 Hit run 1
+19.807	Q10 Hit run 2
+20.387	Q11 Hit run 3
+20.782	Q12 Hit run 4
+21.153	Q13 Hit run 5
+21.734	Q14 Hit run 6
+22.500	Q15 Warm build
+25.612	Q16 Dip - everything converges
+27.167	Q17 RISER - white surge
+28.723	Q18 Pre-drop stab 1
+29.118	Q19 Pre-drop stab 2
+29.489	Q20 Pre-drop stab 3
+29.884	Q21 SUCK-OUT blackout
+30.279	Q22 DROP - white blinder
+30.650	Q23 Chorus1 bar 20 - punch
+30.848	Q24 Chorus1 bar 20 - decay
+31.835	Q25 Chorus1 bar 21 - left
+32.601	Q26 Chorus1 bar 21 - right
+33.390	Q27 Chorus1 bar 22 - punch
+33.785	Q28 Chorus1 bar 22 - decay
+34.969	Q29 Chorus1 bar 23 - left
+35.805	Q30 Chorus1 bar 23 - right
+36.641	Q31 Chorus1 bar 24 - punch
+37.036	Q32 Chorus1 bar 24 - decay
+38.197	Q33 Chorus1 bar 25 - left
+38.986	Q34 Chorus1 bar 25 - right
+39.753	Q35 Chorus1 bar 26 - punch
+40.124	Q36 Chorus1 bar 26 - decay
+41.285	Q37 Chorus1 bar 27 - left
+42.075	Q38 Chorus1 bar 27 - right
+42.841	Q39 Chorus1 bar 28 - punch
+43.236	Q40 Chorus1 bar 28 - decay
+44.397	Q41 Chorus1 bar 29 - left
+45.163	Q42 Chorus1 bar 29 - right
+45.929	Q43 Chorus1 bar 30 - punch
+46.324	Q44 Chorus1 bar 30 - decay
+47.485	Q45 Chorus1 bar 31 - left
+48.274	Q46 Chorus1 bar 31 - right
+49.041	Q47 Chorus1 bar 32 - punch
+49.435	Q48 Chorus1 bar 32 - decay
+50.573	Q49 Chorus1 bar 33 - left
+51.363	Q50 Chorus1 bar 33 - right
+52.152	Q51 Chorus1 bar 34 - punch
+52.524	Q52 Chorus1 bar 34 - decay
+53.685	Q53 Chorus1 bar 35 - left
+54.428	Q54 Chorus1 bar 35 - right
+55.217	Q55 Chorus1 bar 36 - final punch
+55.612	Q56 Chorus1 bar 36 - decay
+56.819	Q57 Chorus out - settle
+58.514	Q58 Verse2 - teal searchlights L
+61.626	Q59 Verse2 - sweep 2
+64.714	Q60 Verse2 - sweep 3
+67.802	Q61 Verse2 - sweep 4
+70.914	Q62 Verse2 - gather
+72.469	Q63 E - purple lift
+74.025	Q64 E - wave 1
+77.113	Q65 E - wave 2
+80.202	Q66 E - wave 3
+81.730	Q67 E hit 1 - left slams right
+82.500	Q68 E hit 2 - right slams left
+83.290	Q69 E hit 3 - centre
+83.740	Q70 E - recover
+86.380	Q71 E hit 4 - full white
+86.680	Q72 E - recover 2
+89.490	Q73 E - converge build
+94.134	Q74 Breakdown - lone centre beam
+95.713	Q75 Breakdown - breath
+97.222	Q76 RISER 2 - cathedral ignites
+98.778	Q77 RISER 2 - strobe accelerates
+100.333	Q78 Release - magenta
+102.446	Q79 Staccato 1
+103.027	Q80 Staccato 2
+103.422	Q81 Staccato 3
+103.793	Q82 Staccato 4
+104.374	Q83 Staccato 5
+104.768	Q84 Staccato 6
+105.349	Q85 Staccato 7
+105.744	Q86 Staccato 8
+106.115	Q87 Staccato 9
+106.510	Q88 Staccato 10
+107.090	Q89 Staccato 11
+107.485	Q90 Staccato 12
+107.857	Q91 Staccato 13
+108.437	Q92 Staccato 14
+108.832	Q93 Staccato 15
+109.227	Q94 Staccato 16
+109.807	Q95 Staccato 17
+110.179	Q96 Staccato 18
+110.573	Q97 Staccato 19
+111.154	Q98 Staccato 20
+111.549	Q99 Staccato 21
+111.920	Q100 Staccato 22
+112.315	Q101 Staccato 23
+112.895	Q102 Staccato 24
+113.476	Q103 Staccato 25
+113.871	Q104 Staccato 26
+114.265	Q105 Build2 - cool
+115.937	Q106 Build2 - sweep 1
+119.095	Q107 Build2 - sweep 2
+122.183	Q108 Build2 - sweep 3
+125.272	Q109 Build2 - lift
+128.383	Q110 Build2 - whitening
+131.471	Q111 RISER 3 - full strobe
+132.829	Q112 SUCK-OUT 2
+133.027	Q113 FINAL DROP - gold blinder
+133.422	Q114 Final bar 86 - colour 1
+133.817	Q115 Final bar 86 - decay
+134.583	Q116 Final bar 87 - row chase 1
+134.954	Q117 Final bar 87 - row chase 2
+135.349	Q118 Final bar 87 - row chase 3
+135.744	Q119 Final bar 87 - row chase 4
+136.139	Q120 Final bar 88 - colour 2
+136.905	Q121 Final bar 88 - decay
+137.694	Q122 Final bar 89 - row chase 1
+138.066	Q123 Final bar 89 - row chase 2
+138.461	Q124 Final bar 89 - row chase 3
+138.855	Q125 Final bar 89 - row chase 4
+139.250	Q126 Final bar 90 - colour 3
+139.993	Q127 Final bar 90 - decay
+140.783	Q128 Final bar 91 - row chase 1
+141.177	Q129 Final bar 91 - row chase 2
+141.549	Q130 Final bar 91 - row chase 3
+141.944	Q131 Final bar 91 - row chase 4
+142.315	Q132 Final bar 92 - colour 4
+143.105	Q133 Final bar 92 - decay
+143.894	Q134 Final bar 93 - row chase 1
+144.289	Q135 Final bar 93 - row chase 2
+144.660	Q136 Final bar 93 - row chase 3
+145.032	Q137 Final bar 93 - row chase 4
+145.427	Q138 Final bar 94 - colour 5
+146.216	Q139 Final bar 94 - decay
+146.982	Q140 Final bar 95 - row chase 1
+147.377	Q141 Final bar 95 - row chase 2
+147.749	Q142 Final bar 95 - row chase 3
+148.120	Q143 Final bar 95 - row chase 4
+148.492	Q144 Final bar 96 - colour 6
+149.281	Q145 Final bar 96 - decay
+150.047	Q146 Final bar 97 - row chase 1
+150.442	Q147 Final bar 97 - row chase 2
+150.837	Q148 Final bar 97 - row chase 3
+151.232	Q149 Final bar 97 - row chase 4
+151.626	Q150 Final bar 98 - colour 7
+152.393	Q151 Final bar 98 - decay
+153.159	Q152 Final bar 99 - row chase 1
+153.554	Q153 Final bar 99 - row chase 2
+153.925	Q154 Final bar 99 - row chase 3
+154.320	Q155 Final bar 99 - row chase 4
+154.691	Q156 Final bar 100 - colour 8
+155.481	Q157 Final bar 100 - decay
+156.270	Q158 Final bar 101 - row chase 1
+156.642	Q159 Final bar 101 - row chase 2
+157.037	Q160 Final bar 101 - row chase 3
+157.408	Q161 Final bar 101 - row chase 4
+157.803	Q162 END HIT - white
+158.203	Q163 Outro - floor beams fade to blue
+163.000	Q164 Blackout

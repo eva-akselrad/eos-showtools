@@ -1,0 +1,818 @@
+[
+{
+"n": 1,
+"t": 0.0,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "PRESET"
+},
+{
+"n": 2,
+"t": 0.218,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "ROAR - arena ignites"
+},
+{
+"n": 3,
+"t": 0.42,
+"fade": 1.2,
+"focus": 1.0,
+"color": 0,
+"label": "Red searchlights"
+},
+{
+"n": 4,
+"t": 1.12,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Tower flick"
+},
+{
+"n": 5,
+"t": 1.3,
+"fade": 0.5,
+"focus": 0.5,
+"color": 0,
+"label": "flick out"
+},
+{
+"n": 6,
+"t": 2.72,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "HIT sparkle burst"
+},
+{
+"n": 7,
+"t": 2.946,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "HIT left"
+},
+{
+"n": 8,
+"t": 3.46,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "HIT right"
+},
+{
+"n": 9,
+"t": 3.7,
+"fade": 0.6,
+"focus": 0.6,
+"color": 0,
+"label": "Red circle breathe"
+},
+{
+"n": 10,
+"t": 4.717,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Step hit 1"
+},
+{
+"n": 11,
+"t": 4.87,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Step hit 2"
+},
+{
+"n": 12,
+"t": 5.013,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Step hit 3"
+},
+{
+"n": 13,
+"t": 5.155,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Step hit 4"
+},
+{
+"n": 14,
+"t": 5.712,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "TIERS rise red"
+},
+{
+"n": 15,
+"t": 6.197,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "IMPACT 1 - white strobe"
+},
+{
+"n": 16,
+"t": 6.42,
+"fade": 0.3,
+"focus": 0.3,
+"color": 0,
+"label": "into red cross"
+},
+{
+"n": 17,
+"t": 6.763,
+"fade": 0,
+"focus": 0.12,
+"color": 0,
+"label": "Pulse snap 1"
+},
+{
+"n": 18,
+"t": 6.92,
+"fade": 0,
+"focus": 0.12,
+"color": 0,
+"label": "Pulse snap 2"
+},
+{
+"n": 19,
+"t": 7.065,
+"fade": 0,
+"focus": 0.12,
+"color": 0,
+"label": "Pulse snap 3"
+},
+{
+"n": 20,
+"t": 7.207,
+"fade": 0,
+"focus": 0.12,
+"color": 0,
+"label": "Pulse snap 4"
+},
+{
+"n": 21,
+"t": 7.956,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "CENTRE OUT"
+},
+{
+"n": 22,
+"t": 8.368,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "IMPACT 2 - red cross strobe"
+},
+{
+"n": 23,
+"t": 8.62,
+"fade": 0.35,
+"focus": 0.35,
+"color": 0,
+"label": "drop out"
+},
+{
+"n": 24,
+"t": 9.131,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "cyan sparkle"
+},
+{
+"n": 25,
+"t": 9.256,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "IMPACT 3 - white tunnel"
+},
+{
+"n": 26,
+"t": 9.42,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "L-R SLAM"
+},
+{
+"n": 27,
+"t": 9.85,
+"fade": 0.25,
+"focus": 0.25,
+"color": 0,
+"label": "breath"
+},
+{
+"n": 28,
+"t": 10.15,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "TRUSS RUN + CHEVRON + TOWERS"
+},
+{
+"n": 29,
+"t": 10.95,
+"fade": 0.8,
+"focus": 0.8,
+"color": 0,
+"label": "Cyan searchlights"
+},
+{
+"n": 30,
+"t": 12.832,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "OH flash"
+},
+{
+"n": 31,
+"t": 13.0,
+"fade": 1.9,
+"focus": 1.9,
+"color": 0,
+"label": "RISER - converge white"
+},
+{
+"n": 32,
+"t": 14.991,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Riser hit 1"
+},
+{
+"n": 33,
+"t": 15.128,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Riser hit 2"
+},
+{
+"n": 34,
+"t": 15.256,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Riser hit 3"
+},
+{
+"n": 35,
+"t": 15.424,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "Riser hit 4"
+},
+{
+"n": 36,
+"t": 15.62,
+"fade": 0.8,
+"focus": 0.8,
+"color": 0,
+"label": "Purple circles"
+},
+{
+"n": 37,
+"t": 17.328,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "TICKING - chevron + towers"
+},
+{
+"n": 38,
+"t": 17.903,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "ticking faster"
+},
+{
+"n": 39,
+"t": 18.651,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "STROBE ALL"
+},
+{
+"n": 40,
+"t": 19.35,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "silence"
+},
+{
+"n": 41,
+"t": 19.815,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BIG HIT - audience blinder"
+},
+{
+"n": 42,
+"t": 20.05,
+"fade": 0.15,
+"focus": 0.15,
+"color": 0,
+"label": "gap"
+},
+{
+"n": 43,
+"t": 20.657,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RESTART - red slam"
+},
+{
+"n": 44,
+"t": 20.843,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "WIPE BOUNCE + SNAP FAN-X"
+},
+{
+"n": 45,
+"t": 21.731,
+"fade": 0.3,
+"focus": 0.3,
+"color": 0,
+"label": "Ticking - cyan glitter, blue search"
+},
+{
+"n": 46,
+"t": 23.45,
+"fade": 1.0,
+"focus": 1.0,
+"color": 0,
+"label": "Ambient figure-8"
+},
+{
+"n": 47,
+"t": 25.838,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "OH tunnel hit"
+},
+{
+"n": 48,
+"t": 26.285,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "hi L"
+},
+{
+"n": 49,
+"t": 26.535,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "hi R"
+},
+{
+"n": 50,
+"t": 27.019,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "HIT full"
+},
+{
+"n": 51,
+"t": 27.16,
+"fade": 0.4,
+"focus": 0.4,
+"color": 0,
+"label": "red settle"
+},
+{
+"n": 52,
+"t": 27.603,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "TIERS red"
+},
+{
+"n": 53,
+"t": 28.482,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "STROBE ODD-EVEN"
+},
+{
+"n": 54,
+"t": 28.958,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "hit L"
+},
+{
+"n": 55,
+"t": 29.071,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "hit R"
+},
+{
+"n": 56,
+"t": 29.3,
+"fade": 0.4,
+"focus": 0.4,
+"color": 0,
+"label": "red low"
+},
+{
+"n": 57,
+"t": 29.965,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 1 wipe"
+},
+{
+"n": 58,
+"t": 30.1131,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 2 wipe"
+},
+{
+"n": 59,
+"t": 30.2612,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 3 wipe"
+},
+{
+"n": 60,
+"t": 30.4093,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 4 wipe"
+},
+{
+"n": 61,
+"t": 30.5574,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 5 wipe"
+},
+{
+"n": 62,
+"t": 30.7055,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 6 ring"
+},
+{
+"n": 63,
+"t": 30.8536,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 7 ring"
+},
+{
+"n": 64,
+"t": 31.0017,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 8 ring"
+},
+{
+"n": 65,
+"t": 31.1498,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 9 ring"
+},
+{
+"n": 66,
+"t": 31.2979,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 10 ring"
+},
+{
+"n": 67,
+"t": 31.446,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 11 tier"
+},
+{
+"n": 68,
+"t": 31.5941,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 12 tier"
+},
+{
+"n": 69,
+"t": 31.7422,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 13 tier"
+},
+{
+"n": 70,
+"t": 31.8903,
+"fade": 0,
+"focus": 0.1,
+"color": 0,
+"label": "PULSE 14 tier"
+},
+{
+"n": 71,
+"t": 32.1,
+"fade": 0.3,
+"focus": 0.3,
+"color": 0,
+"label": "pulse out"
+},
+{
+"n": 72,
+"t": 32.482,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "sparkle burst"
+},
+{
+"n": 73,
+"t": 33.234,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "OH cross"
+},
+{
+"n": 74,
+"t": 33.628,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "V fan"
+},
+{
+"n": 75,
+"t": 34.209,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "MEGA IMPACT - blinder + strobe"
+},
+{
+"n": 76,
+"t": 34.55,
+"fade": 0.8,
+"focus": 1.0,
+"color": 0,
+"label": "red tunnel"
+},
+{
+"n": 77,
+"t": 34.984,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "TL"
+},
+{
+"n": 78,
+"t": 35.193,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "TR"
+},
+{
+"n": 79,
+"t": 35.79,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "gap"
+},
+{
+"n": 80,
+"t": 36.058,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "sparkle"
+},
+{
+"n": 81,
+"t": 36.748,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "OH"
+},
+{
+"n": 82,
+"t": 37.097,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "V"
+},
+{
+"n": 83,
+"t": 37.3,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "CENTRE OUT build"
+},
+{
+"n": 84,
+"t": 37.8,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "build faster"
+},
+{
+"n": 85,
+"t": 38.1,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "build fastest"
+},
+{
+"n": 86,
+"t": 38.333,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "pickup L"
+},
+{
+"n": 87,
+"t": 38.638,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "pickup R"
+},
+{
+"n": 88,
+"t": 38.748,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "pickup C"
+},
+{
+"n": 89,
+"t": 38.922,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "HUGE IMPACT"
+},
+{
+"n": 90,
+"t": 39.05,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "WIPE + SNAP + COLOUR RUN"
+},
+{
+"n": 91,
+"t": 40.09,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "ROAR - FULL STAGE STROBE"
+},
+{
+"n": 92,
+"t": 40.68,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "roar - red glitter, colour run"
+},
+{
+"n": 93,
+"t": 41.27,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "roar - strobe, snap"
+},
+{
+"n": 94,
+"t": 41.86,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "roar - odd/even, 4-way snap"
+},
+{
+"n": 95,
+"t": 42.455,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "L-R SLAM"
+},
+{
+"n": 96,
+"t": 43.323,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "red slam"
+},
+{
+"n": 97,
+"t": 43.479,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "white slam"
+},
+{
+"n": 98,
+"t": 43.67,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "gap"
+},
+{
+"n": 99,
+"t": 43.912,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "TIERS rising"
+},
+{
+"n": 100,
+"t": 44.85,
+"fade": 0.3,
+"focus": 0.3,
+"color": 0,
+"label": "FINAL POSE - sky fan"
+},
+{
+"n": 101,
+"t": 45.5,
+"fade": 1.5,
+"focus": 1.5,
+"color": 1.5,
+"label": "fan to red"
+},
+{
+"n": 102,
+"t": 47.0,
+"fade": 0.8,
+"focus": 0.8,
+"color": 0,
+"label": "fade out"
+}
+]

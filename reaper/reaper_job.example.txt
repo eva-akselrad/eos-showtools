@@ -1,0 +1,5 @@
+wav=C:\path\to\song.wav
+track=Show Audio - Song
+take=Song - Artist
+markers=C:\path\to\showtools\examples\song\markers.txt
+log=C:\path\to\showtools\out\reaper_log.txt
