@@ -6,8 +6,8 @@ Every script runs from the repo root. Paths and window titles come from [`config
 - [Console I/O](#console-io): `eosctl.py`, `eostry.py`, `eosui.py`
 - [Show writing](#show-writing): `rig.py`, `fxlib.py`
 - [Analysis](#analysis): `analyze2.py`, `slotgrid.py`, `onsets.py`, `analyze.py`
-- [Playback and measurement](#playback--measurement): `runtest.py`, `reaper_load.py`, `reaper/*.lua`
-- [Desktop and visuals](#desktop--visuals): `deskctl.py`, `look.py`
+- [Playback and measurement](#playback-and-measurement): `runtest.py`, `reaper_load.py`, `reaper/*.lua`
+- [Desktop and visuals](#desktop-and-visuals): `deskctl.py`, `look.py`
 - [dev/](#dev): look development and probes
 
 ---
