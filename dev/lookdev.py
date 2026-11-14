@@ -13,6 +13,9 @@ import config
 SC = config.OUT_DIR
 FULL = "--full" in sys.argv
 args = [a for a in sys.argv[1:] if a != "--full"]
+if "--rig" in args:            # e.g. --rig examples/union/rig.json  (positions of another rig)
+    import json
+    i = args.index("--rig"); use_rig(json.load(open(args[i + 1]))["pos"]); del args[i:i + 2]
 name, looks = args[0], args[1:]
 S = Show(dry=False)
 deskctl.focus(config.EOS_WINDOW)
@@ -32,6 +35,7 @@ for i, im in enumerate(ims):
 out = os.path.join(SC, name + ".png")
 sheet.save(out)
 print(out)
+
 
 
 

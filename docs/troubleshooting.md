@@ -25,3 +25,6 @@ Every entry here happened while building the examples.
 | Downbeats half a bar off | Half-time groove fooled the bar phase | Force it: `analyze2.py song.wav out.json 110 0` |
 | Augment3d camera "moves" between captures | Usually it doesn't: different fixtures are lit. Otherwise the Alt tap or `Chan 1` selection | `deskctl.focus` parks the cursor; compare against a lit-rig frame |
 | Clicking an Eos tab does nothing useful | The Live key changed the workspace page | Click the page icon at the top (e.g. 128,16), then the tab |
+| Cues stop at ~3:00 even after `extend-timecode` | The SMPTE generator source stops after its original length | `python reaper_load.py split-timecode --seconds 300` |
+| Excalibur/Rayzor dark at full | Strobe Mode "Closed" after patching | `Chan ... Home` (or Excalibur Strobe_Mode 60-100 = Open) |
+| Moving head can't reach the sky | Hung (orientation 0) heads clamp ~45° above horizontal | Mount upright: `Orientation 180 / 0 / 0` |

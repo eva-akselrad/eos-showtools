@@ -110,6 +110,14 @@ def key_combo(combo):
     time.sleep(0.03)
 
 
+def hold(combo, seconds):
+    """hold a key (or combo) down for `seconds` (smooth camera moves in Augment3d)"""
+    vks = [_vk_for(p) for p in combo.split("+")]
+    _send(*[_kb(v, 0, EXTENDED if v in EXT_KEYS else 0) for v in vks])
+    time.sleep(float(seconds))
+    _send(*[_kb(v, 0, KEYUP | (EXTENDED if v in EXT_KEYS else 0)) for v in reversed(vks)])
+
+
 def type_text(text, delay=0.005):
     for ch in text:
         if ch == "\n":
@@ -132,14 +140,22 @@ def click(x, y, right=False, double=False):
         time.sleep(0.06)
 
 
-def drag(x0, y0, x1, y1, steps=20):
+def drag(x0, y0, x1, y1, steps=20, button="left", mods=""):
+    """mouse drag; button left|right|middle; mods like "alt" or "ctrl+shift" held during the drag
+    (Augment3d: right = look around, alt+right = orbit, middle / ctrl+right = pan)"""
+    btn = {"left": (0x2, 0x4), "right": (0x8, 0x10), "middle": (0x20, 0x40)}[button]
+    mk = [_vk_for(m) for m in mods.split("+") if m]
     move(x0, y0)
     time.sleep(0.05)
-    _send(_mouse(0x2))
+    if mk:
+        _send(*[_kb(v) for v in mk]); time.sleep(0.03)
+    _send(_mouse(btn[0]))
     for s in range(1, steps + 1):
         move(x0 + (x1 - x0) * s / steps, y0 + (y1 - y0) * s / steps)
-        time.sleep(0.01)
-    _send(_mouse(0x4))
+        time.sleep(0.015)
+    _send(_mouse(btn[1]))
+    if mk:
+        time.sleep(0.03); _send(*[_kb(v, 0, KEYUP) for v in reversed(mk)])
 
 
 def scroll(x, y, n):
@@ -238,8 +254,12 @@ def main(a):
                                 "min": win32con.SW_MINIMIZE}[cmd])
     elif cmd == "click":
         click(int(rest[0]), int(rest[1]), "--right" in rest, "--double" in rest)
+    elif cmd == "hold":
+        hold(rest[0], rest[1])
     elif cmd == "drag":
-        drag(*map(int, rest[:4]))
+        btn = rest[rest.index("--button") + 1] if "--button" in rest else "left"
+        mods = rest[rest.index("--mods") + 1] if "--mods" in rest else ""
+        drag(*map(int, rest[:4]), button=btn, mods=mods)
     elif cmd == "move":
         move(int(rest[0]), int(rest[1]))
     elif cmd == "scroll":
@@ -257,4 +277,5 @@ def main(a):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
 

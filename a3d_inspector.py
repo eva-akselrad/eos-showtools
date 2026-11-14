@@ -47,10 +47,13 @@ def shot():
 
 
 def main():
-    global FIELD_Y
+    global FIELD_Y, NAME_XY
     a = sys.argv[1:]
     if "--layout" in a:
         i = a.index("--layout"); FIELD_Y = LAYOUTS[a[i + 1]]; del a[i:i + 2]
+    if "--dy" in a:   # Inspector shifted down (e.g. taller Hierarchy panel): offset every row
+        i = a.index("--dy"); dy = int(a[i + 1]); del a[i:i + 2]
+        FIELD_Y = {k: v + dy for k, v in FIELD_Y.items()}; NAME_XY = (NAME_XY[0], NAME_XY[1] + dy)
     if not a:
         print(__doc__); return
     deskctl.focus(config.EOS_WINDOW)
@@ -66,4 +69,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

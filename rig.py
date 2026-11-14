@@ -48,6 +48,16 @@ Y = lambda c: POS[c][1]
 Z = lambda c: POS[c][2]
 
 
+def use_rig(positions):
+    """Switch rig.py to a different rig: positions = {chan: (x, y, z)}.
+    Replaces POS and ALL/LEFT/RIGHT in place (so Show and the helpers see it). The named groups
+    of the reference rig (OH, V, WASH ...) are NOT valid afterwards; define your own."""
+    POS.clear(); POS.update({int(c): tuple(p) for c, p in positions.items()})
+    ALL[:] = sorted(POS)
+    LEFT[:] = [c for c in ALL if POS[c][0] < 0]
+    RIGHT[:] = [c for c in ALL if POS[c][0] > 0]
+
+
 def spec(chs):
     chs = sorted(set(chs))
     out, i = [], 0

@@ -16,6 +16,7 @@ Commands
   python reaper_load.py load  --wav song.wav --markers examples/x/markers.txt \
                               --track "Show Audio - Song" --take "Song - Artist" --expect "aidemo"
   python reaper_load.py extend-timecode [--seconds 240]
+  python reaper_load.py split-timecode [--seconds 300] [--split 170]   (MTC past ~3:00, see split_timecode.lua)
   python reaper_load.py play | stop
 """
 import argparse, os, subprocess, sys, time
@@ -70,6 +71,8 @@ def main():
     l.add_argument("--expect", help="substring the open project's title must contain")
     l.add_argument("--force", action="store_true")
     e = sub.add_parser("extend-timecode"); e.add_argument("--seconds", type=float, default=240)
+    st = sub.add_parser("split-timecode"); st.add_argument("--seconds", type=float, default=300)
+    st.add_argument("--split", type=float, default=170)
     sub.add_parser("play"); sub.add_parser("stop")
     a = ap.parse_args()
 
@@ -95,6 +98,11 @@ def main():
         write_job(seconds=a.seconds, log=log)
         run_script("extend_timecode.lua", 3)
         print(open(log).read() if os.path.exists(log) else "no log written")
+    elif a.cmd == "split-timecode":
+        log = os.path.join(config.OUT_DIR, "reaper_log.txt")
+        write_job(seconds=a.seconds, split=a.split, log=log)
+        run_script("split_timecode.lua", 3)
+        print(open(log).read() if os.path.exists(log) else "no log written")
     elif a.cmd == "play":
         run_script("play.lua", 0.5)
     elif a.cmd == "stop":
@@ -105,3 +113,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
