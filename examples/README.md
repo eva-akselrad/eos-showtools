@@ -9,6 +9,7 @@ record what.
 | [bangarang](bangarang) | *Bangarang*, Skrillex ft. Sirah | 5 / 5 | 635 | Exact grid, continuous beat-locked motion, pixel patterns, laser-style beams |
 | [arena](arena) | *This Is Your Arena* | 6 / 6 | 102 + effect library | Event-driven; real Eos step, absolute and relative effects, palettes, overrides, fanned delays |
 | [latency_test](latency_test) | none | 5 / 5 | 31 | Measures your Reaper → Eos latency |
+| [stage](stage) | none | none | none | Builds the Augment3d stage itself: deck, truss grid, towers, fixture positions |
 
 **Audio is not included.** Each README says where the track comes from. Convert it to WAV, and
 the analysis files, cue sheets and markers in the folder still line up with it. You only need

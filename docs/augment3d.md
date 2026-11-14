@@ -45,3 +45,11 @@ differently from real fixtures. Everything below was found with `dev/lookdev.py`
   capture box assumes the full-width *38 Augment3d* tab.
 - **The Live key switches workspace page.** Afterwards, click back to the page and tab that hold
   Augment3d.
+
+## Building a stage
+
+Fixtures can be placed from the command line in Patch, using `a3d_place.py`:
+`Chan N Position x / y / z` and `Orientation rx / ry / rz`, with spaces around `/` and `- 9`
+for negative values. Objects (decks, truss, scenery) can only be placed through Edit Mode.
+`a3d_inspector.py` types into the Inspector, and `examples/stage/build_stage.py` builds a
+complete deck + truss grid + towers that way. See [examples/stage](../examples/stage).
