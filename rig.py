@@ -215,7 +215,11 @@ class Show:
     def wipe(self):
         """delete this list's cues + events"""
         self.run(f"Delete Cue {self.list} / 1 Thru 1999 Enter", pause=1.5)
-        self.run(f"Event {self.list} / 1 Thru 1999 Delete Enter", pause=1.5)
+        # events: the delete asks "Please Confirm"; answer with an appended Enter (/eos/cmd #).
+        # Without the confirm, stale events survive a rebuild and fire the wrong cues.
+        self.run(f"Delete Event {self.list} / 1 Thru 1999", pause=0.8)
+        if not self.dry:
+            self.e.send("/eos/cmd", "#"); time.sleep(1.5)
 
     def frame(self, t):
         """timecode frame for song time t, fired `latency` seconds early"""
@@ -239,4 +243,5 @@ class Show:
         with open(os.path.join(self.outdir, "markers.txt"), "w") as f:
             for q in self.cues:
                 f.write(f"{q['t']:.3f}\tQ{q['n']} {q['label']}\n")
+
 

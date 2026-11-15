@@ -28,3 +28,4 @@ Every entry here happened while building the examples.
 | Cues stop at ~3:00 even after `extend-timecode` | The SMPTE generator source stops after its original length | `python reaper_load.py split-timecode --seconds 300` |
 | Excalibur/Rayzor dark at full | Strobe Mode "Closed" after patching | `Chan ... Home` (or Excalibur Strobe_Mode 60-100 = Open) |
 | Moving head can't reach the sky | Hung (orientation 0) heads clamp ~45° above horizontal | Mount upright: `Orientation 180 / 0 / 0` |
+| Rebuilt show fires the wrong cues / some never fire | Stale events: `Event N / 1 Thru 999 Delete` is a syntax error, so old events survived | `Delete Event N / 1 Thru 1999` + confirm (`rig.Show.wipe` does this now) |

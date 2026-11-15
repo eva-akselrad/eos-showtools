@@ -19,6 +19,7 @@ EN, ES = R(301, 320), R(321, 340); E = EN + ES
 JN, JS, JW, JE = R(401, 412), R(413, 424), R(425, 428), R(429, 432); J = JN + JS + JW + JE
 RN, RS, RW, RE = R(501, 510), R(511, 520), R(521, 526), R(527, 532); RY = RN + RS + RW + RE
 ALL = E + J + RY
+H, HN, HS, HW, HE = RY, RN, RS, RW, RE        # ring aliases (show.py naming)
 BEAT = 60 / 128.0
 
 # Union colours: navy, gold, light blue (+ white, deep blue, warm white)
@@ -93,7 +94,34 @@ def effects():
     F.absolute(891, "SKY SNAP", ["Focus_Palette 71", "Focus_Palette 72"], 0.12, BEAT * 2 - 0.12)
     F.absolute(892, "SKY SWEEP", ["Focus_Palette 75", "Focus_Palette 76"], BEAT * 4, 0.0)
     S.run("Effect 901 Copy_To Effect 895", 0.4); F.confirm(); S.run("Effect 895 Label SKY CIRCLE")
+    # random strobes: 24 steps of 1-2 random fixtures, random step order
+    F.step(887, "RANDOM STROBE JDC", [rnd.sample(J, rnd.choice((1, 2))) for _ in range(24)], 0.05, dwell=0.03,
+           decay=0.0, attrs=["Random_Groups"])
+    F.step(888, "RANDOM STROBE BEAMS", [rnd.sample(E, rnd.choice((1, 2, 3))) for _ in range(24)], 0.07, dwell=0.04,
+           decay=0.02, attrs=["Random_Groups"])
+    F.step(889, "RANDOM STROBE RING", [rnd.sample(H, 2) for _ in range(16)], 0.06, dwell=0.04, decay=0.0,
+           attrs=["Random_Groups"])
     S.run("Live", 0.5)
+
+
+# labelled groups for refining by hand (numbers stable: show.py commands use them)
+GROUPS = [
+    (701, "BEAMS ALL", E), (702, "BEAMS NORTH", EN), (703, "BEAMS SOUTH", ES),
+    (704, "BEAMS WEST HALF", [c for c in E if POS[c][0] < 0]), (705, "BEAMS EAST HALF", [c for c in E if POS[c][0] > 0]),
+    (706, "BEAMS ODD", E[0::2]), (707, "BEAMS EVEN", E[1::2]),
+    (711, "STROBES ALL", J), (712, "STROBES NORTH ROOF", JN), (713, "STROBES SOUTH ROOF", JS),
+    (714, "STROBES SCOREBOARD W", JW), (715, "STROBES EAST STAND", JE), (716, "STROBES ROOF BOTH", JN + JS), (717, "STROBES VISIBLE FROM PRESS BOX", JN + JW + JE),
+    (721, "RING ALL", H), (722, "RING NORTH", HN), (723, "RING SOUTH", HS), (724, "RING WEST END", HW),
+    (725, "RING EAST END", HE), (726, "RING SIDES", HN + HS), (727, "RING ENDS", HW + HE),
+    (731, "NORTH SIDE ALL", EN + JN + HN), (732, "SOUTH SIDE ALL", ES + JS + HS), (740, "EVERYTHING", ALL),
+]
+
+
+def groups():
+    S.run("Live", 0.4)
+    for n, lab, chs in GROUPS:
+        S.run(f"{spec(chs)} Record Group {n}", 0.25); F.confirm()
+        S.run(f"Group {n} Label {lab}", 0.05)
 
 
 if __name__ == "__main__":
@@ -102,4 +130,8 @@ if __name__ == "__main__":
         palettes()
     if what in ("all", "fx"):
         effects()
+    if what in ("all", "groups"):
+        groups()
     print("commands:", S.ncmd)
+
+

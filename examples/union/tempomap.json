@@ -1,0 +1,32 @@
+{
+ "segments": [
+  {
+   "start": 0,
+   "end": 53,
+   "t0": 0.1861,
+   "period": 0.4687247339926728,
+   "bpm": 128.007,
+   "used": 40,
+   "resid_ms": 3.2
+  },
+  {
+   "start": 53,
+   "end": 99.4,
+   "t0": 53.1776,
+   "period": 0.41871897842004613,
+   "bpm": 143.294,
+   "used": 47,
+   "resid_ms": 4.0
+  },
+  {
+   "start": 99.4,
+   "end": 134,
+   "t0": 99.7485,
+   "period": 0.41903704574803713,
+   "bpm": 143.185,
+   "used": 52,
+   "resid_ms": 2.8
+  }
+ ],
+ "method": "strong low-band onset (attack start) fit"
+}

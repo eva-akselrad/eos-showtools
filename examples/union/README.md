@@ -2,8 +2,8 @@
 
 - **Venue:** Subaru Park, a Mini Skyline GLB (OpenStreetMap / Overture data; see the model's attribution files) imported into Augment3d at **Scale 10.4**, Rotation (−90, 0, 80), Position (69.9, −13.7, −2.94). That makes the pitch a true 104 × 64 m, centred on the world origin with its long axis on X.
 - **Audio:** a mashup of *Party Till We Die* (MAKJ & Timmy Trumpet ft. Andrew W.K.) and the Philadelphia Union "Doop" song. 128.000 BPM, 4:26. Not included.
-- **Eos:** cue list 7, event list 7 (MIDI timecode). **314 cues**, plus palettes CP 71–76, FP 71–78 / 81–84 and effects 880–895.
-- **Measured:** all 313 timed cues fired, −45 … +63 ms, median +5 ms.
+- **Eos:** cue list 7, event list 7 (MIDI timecode). **309 cues**, groups 701–740, palettes CP 71–76, FP 71–78 / 81–84, effects 880–895.
+- **Measured (v3):** all 308 timed cues fired, −45 … +64 ms, median +7 ms.
 
 ![run](union_run.png)
 
@@ -33,22 +33,55 @@ Why these:
 | Absolute | 890 NAVY-GOLD · 891 SKY SNAP (fan ↔ cross) · 892 SKY SWEEP |
 | Relative | 895 SKY CIRCLE |
 
-## Show
+## Show (v3, fixed audio, built for the press-box view)
 
-| Time | Section | Look |
+The corrected audio is 2:13 with a **piecewise tempo map** (`tempomap.json`, built with `tempomap.py`):
+- **0:00–0:51:** 128.007 BPM
+- **0:53–1:39:** 143.29 BPM
+- **1:39 on:** 143.19 BPM. The final drop is a separate edit that re-enters about a quarter-beat off the previous grid.
+
+Each part's grid is fitted to the strong kick onsets with a median residual of 3–4 ms.
+
+**Viewpoint.** The show is built for the press box: south stand, looking north. The south-roof
+strobes hang directly above the press box, so they stay dark. All strobe work runs on
+group 717 "STROBES VISIBLE FROM PRESS BOX" (north roof, scoreboard, east stand). Beams lean north
+so they cross the frame.
+
+**Design rules:**
+- **No wavy motion.** Positions snap (focus 0–0.1 s) or hold.
+- **One layer leads at a time.** Beams, strobes or ring takes the lead, with call-and-response north/south.
+- **Random strobes.** Seeded random-group step effects: 887 JDC, 888 beams, 889 ring.
+
+**Machine-only programming:**
+- **Transient pops:** every detected hi-hat or clap in the grooves gets its own cue, which flashes one random visible strobe.
+- **Beam stacking:** the risers add one new beam per 8th note, each aimed at its own random point in the sky. All 40 then snap to the crown and stutter in 16ths into a suck-out.
+- **Teleports:** on drop downbeats all 40 beams snap to one computed convergence point in 3D (see `TELEPORT`).
+- **13 stars:** the Doop melody. Each of the 13 sung notes, detected from the audio, pops one gold pillar.
+
+| Time | Scene | What happens |
 |---|---|---|
-| 0:00.2 | Impact | Whole stadium white, then navy pillars rise W→E (fanned delay) |
-| 0:01–0:12 | Intro chords | Gold/navy halves swap every bar, sky fan ↔ cross |
-| 0:12.6 | Tone | Golden crown: all 40 beams meet above the centre spot, then sparkle |
-| 0:16–0:42 | Groove A | Rattlesnake on the ring, sky snaps on the downbeat, JDC hits alternating N/S on 2 & 4 |
-| 0:46–1:16 | Riser | Sky sweep accelerating (Rate 100→400), sparkle, whitening, 8th→16th roll, suck-out |
-| **1:16** | **Drop 1** | White blinder, then 4-bar blocks: side slam · snake + navy/gold · 13 stars · end pings, with a cue on every beat |
-| 1:42 | Tone 2 | Golden crown |
-| **1:48.6–1:48.8** | **DOOP** | Hard silence, then full-stadium hit, then the Union split: gold north / navy south, sky circles |
-| 2:10–3:14 | Grooves, breaks, build 2 | Light blue / gold, 13 stars |
-| **3:14** | **Final drop** | 31 bars, five rotating techniques plus end strobes every 4 bars |
-| 4:12 | Outro | Gold pillars fade to navy, then black |
+| 0:00.6 | Intro | One gold pillar per chord stab, stacking centre-out across the north roof |
+| 0:06.3 | Tone | 40 beams snap to the crown + random strobe glitter |
+| 0:08.2 | Groove A / A2 | North ↔ south beams answer on every beat (fan / flattened / X); hi-hat pops on the strobes |
+| 0:21.3 | Break A | One solo beam snapping between four points |
+| 0:23.2 | Riser | Ring tent + strobe bed, then a beam stacked per 8th, then a 16th stutter, suck-out at 0:37.0 |
+| 0:38.2 | Drop 1 | White blinder + teleport; phrase A teleports / B strobes lead with ring hits / C call & response |
+| 0:45.7 | Decay → Silence | Crown fades, half the beams, black at 0:51.3 |
+| 0:53.2 | Doop | One gold beam in the silence, then 13 stars on the 13 sung notes |
+| 1:02.0 | Claps | Strobe on every clap (north / ends), ring pick-offs |
+| 1:05–1:15 | Bass in / out / back | Call & response with the ring, solo beam in the gap |
+| 1:15.4 | Chorus | Drop phrases A/B/C |
+| 1:27.1 | Break B | North beams alone; pops on the end strobes |
+| 1:33.8 | Build 2 | Beam stacking again, suck-out at 1:39.55 |
+| 1:39.75 | Final drop | Phrases A/B/C/D; D = everything: a teleport every beat, random strobes on strobes and ring |
+| 2:06.6 | Outro | Gold pillars with pops, to navy, blackout at 2:11.6 |
 
+## For refining by hand
+
+- **Groups:** 701–740 are labelled and used in the cue commands. Beams: 701 all / 702 north / 703 south / 706 odd / 707 even. Strobes: 711–717. Ring: 721–727. 731/732 north/south side; 740 everything.
+- **Cues:** every cue is labelled, and each section starts with a cue **Scene**.
+- **Palettes:** CP 71–76, FP 71–78 / 81–84.
+- **Effects:** 880–895, all labelled.
 ## Rebuild
 
 ```powershell
@@ -61,3 +94,4 @@ python reaper_load.py split-timecode --seconds 280   # MTC past 3:00 (see below)
 **MTC past 3:00:** the Reaper SMPTE generator item stops generating after its original source
 length (~3:00), even when the item is lengthened. `reaper/split_timecode.lua` adds a second
 generator item from 2:50 whose timecode starts at 2:50. Eos chases straight across the join.
+

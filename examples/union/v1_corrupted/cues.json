@@ -1,0 +1,2828 @@
+[
+{
+"n": 1,
+"t": 0.0,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "PRESET - Subaru Park dark",
+"frame": 0
+},
+{
+"n": 2,
+"t": 0.19,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "IMPACT - stadium ignites",
+"frame": 2
+},
+{
+"n": 3,
+"t": 0.55,
+"fade": 1.5,
+"focus": 1.5,
+"color": 0,
+"label": "Navy pillars rise W-E",
+"frame": 13
+},
+{
+"n": 4,
+"t": 1.3239,
+"fade": 0.6,
+"focus": 1.875,
+"color": 0,
+"label": "Intro bar 1 - gold N",
+"frame": 36
+},
+{
+"n": 5,
+"t": 3.1989,
+"fade": 0.6,
+"focus": 1.875,
+"color": 0,
+"label": "Intro bar 2 - gold S",
+"frame": 92
+},
+{
+"n": 6,
+"t": 5.0739,
+"fade": 0.6,
+"focus": 1.875,
+"color": 0,
+"label": "Intro bar 3 - gold N",
+"frame": 148
+},
+{
+"n": 7,
+"t": 6.9489,
+"fade": 0.6,
+"focus": 1.8749999999999991,
+"color": 0,
+"label": "Intro bar 4 - gold S",
+"frame": 205
+},
+{
+"n": 8,
+"t": 8.8239,
+"fade": 0.6,
+"focus": 1.875,
+"color": 0,
+"label": "Intro bar 5 - gold N",
+"frame": 261
+},
+{
+"n": 9,
+"t": 10.6989,
+"fade": 0.6,
+"focus": 1.875,
+"color": 0,
+"label": "Intro bar 6 - gold S",
+"frame": 317
+},
+{
+"n": 10,
+"t": 12.5739,
+"fade": 1.2,
+"focus": 2.5,
+"color": 0,
+"label": "TONE - golden crown",
+"frame": 373
+},
+{
+"n": 11,
+"t": 14.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "crown sparkles",
+"frame": 430
+},
+{
+"n": 12,
+"t": 16.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A - snake + sky snap",
+"frame": 486
+},
+{
+"n": 13,
+"t": 16.7926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 9 hit 2",
+"frame": 500
+},
+{
+"n": 14,
+"t": 17.7301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 9 hit 4",
+"frame": 528
+},
+{
+"n": 15,
+"t": 18.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 10 - gold",
+"frame": 542
+},
+{
+"n": 16,
+"t": 18.6676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 10 hit 2",
+"frame": 556
+},
+{
+"n": 17,
+"t": 19.6051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 10 hit 4",
+"frame": 584
+},
+{
+"n": 18,
+"t": 20.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 11 - colour",
+"frame": 598
+},
+{
+"n": 19,
+"t": 20.5426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 11 hit 2",
+"frame": 613
+},
+{
+"n": 20,
+"t": 21.4801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 11 hit 4",
+"frame": 641
+},
+{
+"n": 21,
+"t": 21.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 12 - gold",
+"frame": 655
+},
+{
+"n": 22,
+"t": 22.4176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 12 hit 2",
+"frame": 669
+},
+{
+"n": 23,
+"t": 23.3551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 12 hit 4",
+"frame": 697
+},
+{
+"n": 24,
+"t": 23.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 13 - colour",
+"frame": 711
+},
+{
+"n": 25,
+"t": 24.2926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 13 hit 2",
+"frame": 725
+},
+{
+"n": 26,
+"t": 25.2301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 13 hit 4",
+"frame": 753
+},
+{
+"n": 27,
+"t": 25.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 14 - gold",
+"frame": 767
+},
+{
+"n": 28,
+"t": 26.1676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 14 hit 2",
+"frame": 781
+},
+{
+"n": 29,
+"t": 27.1051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 14 hit 4",
+"frame": 809
+},
+{
+"n": 30,
+"t": 27.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 15 - colour",
+"frame": 823
+},
+{
+"n": 31,
+"t": 28.0426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 15 hit 2",
+"frame": 838
+},
+{
+"n": 32,
+"t": 28.9801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 15 hit 4",
+"frame": 866
+},
+{
+"n": 33,
+"t": 29.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 16 - gold",
+"frame": 880
+},
+{
+"n": 34,
+"t": 29.9176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 16 hit 2",
+"frame": 894
+},
+{
+"n": 35,
+"t": 30.8551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 16 hit 4",
+"frame": 922
+},
+{
+"n": 36,
+"t": 31.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 17 - colour",
+"frame": 936
+},
+{
+"n": 37,
+"t": 31.7926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 17 hit 2",
+"frame": 950
+},
+{
+"n": 38,
+"t": 32.7301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 17 hit 4",
+"frame": 978
+},
+{
+"n": 39,
+"t": 33.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 18 - gold",
+"frame": 992
+},
+{
+"n": 40,
+"t": 33.6676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 18 hit 2",
+"frame": 1006
+},
+{
+"n": 41,
+"t": 34.6051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 18 hit 4",
+"frame": 1034
+},
+{
+"n": 42,
+"t": 35.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 19 - colour",
+"frame": 1048
+},
+{
+"n": 43,
+"t": 35.5426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 19 hit 2",
+"frame": 1063
+},
+{
+"n": 44,
+"t": 36.4801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 19 hit 4",
+"frame": 1091
+},
+{
+"n": 45,
+"t": 36.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 20 - gold",
+"frame": 1105
+},
+{
+"n": 46,
+"t": 37.4176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 20 hit 2",
+"frame": 1119
+},
+{
+"n": 47,
+"t": 38.3551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 20 hit 4",
+"frame": 1147
+},
+{
+"n": 48,
+"t": 38.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 21 - colour",
+"frame": 1161
+},
+{
+"n": 49,
+"t": 39.2926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 21 hit 2",
+"frame": 1175
+},
+{
+"n": 50,
+"t": 40.2301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 21 hit 4",
+"frame": 1203
+},
+{
+"n": 51,
+"t": 40.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 22 - gold",
+"frame": 1217
+},
+{
+"n": 52,
+"t": 41.1676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 22 hit 2",
+"frame": 1231
+},
+{
+"n": 53,
+"t": 42.1051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE A bar 22 hit 4",
+"frame": 1259
+},
+{
+"n": 54,
+"t": 42.5739,
+"fade": 0.8,
+"focus": 1.5,
+"color": 0,
+"label": "BREAK A - gold pillars",
+"frame": 1273
+},
+{
+"n": 55,
+"t": 46.3239,
+"fade": 1.0,
+"focus": 1.0,
+"color": 0,
+"label": "RISER - sky sweep",
+"frame": 1386
+},
+{
+"n": 56,
+"t": 48.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 26 rate 100",
+"frame": 1442
+},
+{
+"n": 57,
+"t": 50.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 27 rate 100",
+"frame": 1498
+},
+{
+"n": 58,
+"t": 51.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 28 rate 125",
+"frame": 1555
+},
+{
+"n": 59,
+"t": 53.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 29 rate 125",
+"frame": 1611
+},
+{
+"n": 60,
+"t": 55.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 30 rate 150",
+"frame": 1667
+},
+{
+"n": 61,
+"t": 57.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 31 rate 150",
+"frame": 1723
+},
+{
+"n": 62,
+"t": 59.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 32 rate 200",
+"frame": 1780
+},
+{
+"n": 63,
+"t": 61.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 33 rate 200",
+"frame": 1836
+},
+{
+"n": 64,
+"t": 63.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 34 rate 250",
+"frame": 1892
+},
+{
+"n": 65,
+"t": 65.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 35 rate 300",
+"frame": 1948
+},
+{
+"n": 66,
+"t": 66.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 36 rate 350",
+"frame": 2005
+},
+{
+"n": 67,
+"t": 68.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 37 rate 400",
+"frame": 2061
+},
+{
+"n": 68,
+"t": 70.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER bar 38 rate 400",
+"frame": 2117
+},
+{
+"n": 69,
+"t": 72.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 1",
+"frame": 2173
+},
+{
+"n": 70,
+"t": 72.8083,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 2",
+"frame": 2180
+},
+{
+"n": 71,
+"t": 73.0426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 3",
+"frame": 2188
+},
+{
+"n": 72,
+"t": 73.277,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 4",
+"frame": 2195
+},
+{
+"n": 73,
+"t": 73.5114,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 5",
+"frame": 2202
+},
+{
+"n": 74,
+"t": 73.7458,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 6",
+"frame": 2209
+},
+{
+"n": 75,
+"t": 73.9801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 7",
+"frame": 2216
+},
+{
+"n": 76,
+"t": 74.2145,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 8",
+"frame": 2223
+},
+{
+"n": 77,
+"t": 74.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 9",
+"frame": 2230
+},
+{
+"n": 78,
+"t": 74.5661,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 10",
+"frame": 2233
+},
+{
+"n": 79,
+"t": 74.6833,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 11",
+"frame": 2237
+},
+{
+"n": 80,
+"t": 74.8004,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 12",
+"frame": 2240
+},
+{
+"n": 81,
+"t": 74.9176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 13",
+"frame": 2244
+},
+{
+"n": 82,
+"t": 75.0348,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 14",
+"frame": 2247
+},
+{
+"n": 83,
+"t": 75.152,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 15",
+"frame": 2251
+},
+{
+"n": 84,
+"t": 75.2692,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 16",
+"frame": 2254
+},
+{
+"n": 85,
+"t": 75.3864,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 17",
+"frame": 2258
+},
+{
+"n": 86,
+"t": 75.5036,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 18",
+"frame": 2261
+},
+{
+"n": 87,
+"t": 75.6208,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 19",
+"frame": 2265
+},
+{
+"n": 88,
+"t": 75.7379,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER roll 20",
+"frame": 2268
+},
+{
+"n": 89,
+"t": 75.8551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "RISER SUCK OUT",
+"frame": 2272
+},
+{
+"n": 90,
+"t": 76.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 - WHITE BLINDER",
+"frame": 2286
+},
+{
+"n": 91,
+"t": 76.7926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 41 slam",
+"frame": 2300
+},
+{
+"n": 92,
+"t": 77.2614,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 41.3 ring",
+"frame": 2314
+},
+{
+"n": 93,
+"t": 77.7301,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 41.4 ring",
+"frame": 2328
+},
+{
+"n": 94,
+"t": 78.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 42 slam",
+"frame": 2342
+},
+{
+"n": 95,
+"t": 78.6676,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 42.2 ring",
+"frame": 2356
+},
+{
+"n": 96,
+"t": 79.1364,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 42.3 ring",
+"frame": 2370
+},
+{
+"n": 97,
+"t": 79.6051,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 42.4 ring",
+"frame": 2384
+},
+{
+"n": 98,
+"t": 80.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 43 slam",
+"frame": 2398
+},
+{
+"n": 99,
+"t": 80.5426,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 43.2 ring",
+"frame": 2413
+},
+{
+"n": 100,
+"t": 81.0114,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 43.3 ring",
+"frame": 2427
+},
+{
+"n": 101,
+"t": 81.4801,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 43.4 ring",
+"frame": 2441
+},
+{
+"n": 102,
+"t": 81.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 44 slam",
+"frame": 2455
+},
+{
+"n": 103,
+"t": 82.4176,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 44.2 ring",
+"frame": 2469
+},
+{
+"n": 104,
+"t": 82.8864,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 44.3 ring",
+"frame": 2483
+},
+{
+"n": 105,
+"t": 83.3551,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 44.4 ring",
+"frame": 2497
+},
+{
+"n": 106,
+"t": 83.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 45 snake",
+"frame": 2511
+},
+{
+"n": 107,
+"t": 84.7614,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "DROP 1 bar 45.3 sky flip",
+"frame": 2539
+},
+{
+"n": 108,
+"t": 85.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 46 snake",
+"frame": 2567
+},
+{
+"n": 109,
+"t": 86.6364,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "DROP 1 bar 46.3 sky flip",
+"frame": 2595
+},
+{
+"n": 110,
+"t": 87.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 47 snake",
+"frame": 2623
+},
+{
+"n": 111,
+"t": 88.5114,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "DROP 1 bar 47.3 sky flip",
+"frame": 2652
+},
+{
+"n": 112,
+"t": 89.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 48 snake",
+"frame": 2680
+},
+{
+"n": 113,
+"t": 90.3864,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "DROP 1 bar 48.3 sky flip",
+"frame": 2708
+},
+{
+"n": 114,
+"t": 91.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 49 stars",
+"frame": 2736
+},
+{
+"n": 115,
+"t": 91.7926,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 49.2 ring",
+"frame": 2750
+},
+{
+"n": 116,
+"t": 92.2614,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 49.3 ring",
+"frame": 2764
+},
+{
+"n": 117,
+"t": 92.7301,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 49.4 ring",
+"frame": 2778
+},
+{
+"n": 118,
+"t": 93.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 50 stars",
+"frame": 2792
+},
+{
+"n": 119,
+"t": 93.6676,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 50.2 ring",
+"frame": 2806
+},
+{
+"n": 120,
+"t": 94.1364,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 50.3 ring",
+"frame": 2820
+},
+{
+"n": 121,
+"t": 94.6051,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 50.4 ring",
+"frame": 2834
+},
+{
+"n": 122,
+"t": 95.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 51 stars",
+"frame": 2848
+},
+{
+"n": 123,
+"t": 95.5426,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 51.2 ring",
+"frame": 2863
+},
+{
+"n": 124,
+"t": 96.0114,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 51.3 ring",
+"frame": 2877
+},
+{
+"n": 125,
+"t": 96.4801,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 51.4 ring",
+"frame": 2891
+},
+{
+"n": 126,
+"t": 96.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 52 stars",
+"frame": 2905
+},
+{
+"n": 127,
+"t": 97.4176,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 52.2 ring",
+"frame": 2919
+},
+{
+"n": 128,
+"t": 97.8864,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 52.3 ring",
+"frame": 2933
+},
+{
+"n": 129,
+"t": 98.3551,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "DROP 1 bar 52.4 ring",
+"frame": 2947
+},
+{
+"n": 130,
+"t": 98.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 53 ping",
+"frame": 2961
+},
+{
+"n": 131,
+"t": 100.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DROP 1 bar 54 ping",
+"frame": 3017
+},
+{
+"n": 132,
+"t": 102.5739,
+"fade": 0.8,
+"focus": 2.0,
+"color": 0,
+"label": "TONE 2 - golden crown",
+"frame": 3073
+},
+{
+"n": 133,
+"t": 106.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "crown sparkles",
+"frame": 3186
+},
+{
+"n": 134,
+"t": 108.6,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "SILENCE",
+"frame": 3254
+},
+{
+"n": 135,
+"t": 108.77,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "DOOP! - full stadium",
+"frame": 3259
+},
+{
+"n": 136,
+"t": 109.05,
+"fade": 0.8,
+"focus": 1.2,
+"color": 0.8,
+"label": "Union split - gold north / navy south",
+"frame": 3268
+},
+{
+"n": 137,
+"t": 111.9489,
+"fade": 0.5,
+"focus": 0.5,
+"color": 0,
+"label": "Doop - sky circles",
+"frame": 3355
+},
+{
+"n": 138,
+"t": 115.6989,
+"fade": 1.5,
+"focus": 3.75,
+"color": 1.5,
+"label": "Doop bar 62 - swap",
+"frame": 3467
+},
+{
+"n": 139,
+"t": 119.4489,
+"fade": 1.5,
+"focus": 3.75,
+"color": 1.5,
+"label": "Doop bar 64 - swap",
+"frame": 3580
+},
+{
+"n": 140,
+"t": 123.1989,
+"fade": 1.5,
+"focus": 3.75,
+"color": 1.5,
+"label": "Doop bar 66 - swap",
+"frame": 3692
+},
+{
+"n": 141,
+"t": 126.9489,
+"fade": 1.5,
+"focus": 3.749999999999986,
+"color": 1.5,
+"label": "Doop bar 68 - swap",
+"frame": 3805
+},
+{
+"n": 142,
+"t": 130.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN - snake + sky snap",
+"frame": 3917
+},
+{
+"n": 143,
+"t": 131.1676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 70 hit 2",
+"frame": 3931
+},
+{
+"n": 144,
+"t": 132.1051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 70 hit 4",
+"frame": 3959
+},
+{
+"n": 145,
+"t": 132.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 71 - gold",
+"frame": 3973
+},
+{
+"n": 146,
+"t": 133.0426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 71 hit 2",
+"frame": 3988
+},
+{
+"n": 147,
+"t": 133.9801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 71 hit 4",
+"frame": 4016
+},
+{
+"n": 148,
+"t": 134.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 72 - colour",
+"frame": 4030
+},
+{
+"n": 149,
+"t": 134.9176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 72 hit 2",
+"frame": 4044
+},
+{
+"n": 150,
+"t": 135.8551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS IN bar 72 hit 4",
+"frame": 4072
+},
+{
+"n": 151,
+"t": 136.3239,
+"fade": 0.8,
+"focus": 1.5,
+"color": 0,
+"label": "CALM - gold pillars",
+"frame": 4086
+},
+{
+"n": 152,
+"t": 140.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "calm - sky circles",
+"frame": 4198
+},
+{
+"n": 153,
+"t": 143.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B - snake + sky snap",
+"frame": 4311
+},
+{
+"n": 154,
+"t": 144.2926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 77 hit 2",
+"frame": 4325
+},
+{
+"n": 155,
+"t": 145.2301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 77 hit 4",
+"frame": 4353
+},
+{
+"n": 156,
+"t": 145.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 78 - colour",
+"frame": 4367
+},
+{
+"n": 157,
+"t": 146.1676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 78 hit 2",
+"frame": 4381
+},
+{
+"n": 158,
+"t": 147.1051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 78 hit 4",
+"frame": 4409
+},
+{
+"n": 159,
+"t": 147.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 79 - gold",
+"frame": 4423
+},
+{
+"n": 160,
+"t": 148.0426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 79 hit 2",
+"frame": 4438
+},
+{
+"n": 161,
+"t": 148.9801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 79 hit 4",
+"frame": 4466
+},
+{
+"n": 162,
+"t": 149.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 80 - colour",
+"frame": 4480
+},
+{
+"n": 163,
+"t": 149.9176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 80 hit 2",
+"frame": 4494
+},
+{
+"n": 164,
+"t": 150.8551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 80 hit 4",
+"frame": 4522
+},
+{
+"n": 165,
+"t": 151.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 81 - gold",
+"frame": 4536
+},
+{
+"n": 166,
+"t": 151.7926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 81 hit 2",
+"frame": 4550
+},
+{
+"n": 167,
+"t": 152.7301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 81 hit 4",
+"frame": 4578
+},
+{
+"n": 168,
+"t": 153.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 82 - colour",
+"frame": 4592
+},
+{
+"n": 169,
+"t": 153.6676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 82 hit 2",
+"frame": 4606
+},
+{
+"n": 170,
+"t": 154.6051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 82 hit 4",
+"frame": 4634
+},
+{
+"n": 171,
+"t": 155.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 83 - gold",
+"frame": 4648
+},
+{
+"n": 172,
+"t": 155.5426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 83 hit 2",
+"frame": 4663
+},
+{
+"n": 173,
+"t": 156.4801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 83 hit 4",
+"frame": 4691
+},
+{
+"n": 174,
+"t": 156.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 84 - colour",
+"frame": 4705
+},
+{
+"n": 175,
+"t": 157.4176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 84 hit 2",
+"frame": 4719
+},
+{
+"n": 176,
+"t": 158.3551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 84 hit 4",
+"frame": 4747
+},
+{
+"n": 177,
+"t": 158.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 85 - gold",
+"frame": 4761
+},
+{
+"n": 178,
+"t": 159.2926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 85 hit 2",
+"frame": 4775
+},
+{
+"n": 179,
+"t": 160.2301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 85 hit 4",
+"frame": 4803
+},
+{
+"n": 180,
+"t": 160.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 86 - colour",
+"frame": 4817
+},
+{
+"n": 181,
+"t": 161.1676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 86 hit 2",
+"frame": 4831
+},
+{
+"n": 182,
+"t": 162.1051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 86 hit 4",
+"frame": 4859
+},
+{
+"n": 183,
+"t": 162.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 87 - gold",
+"frame": 4873
+},
+{
+"n": 184,
+"t": 163.0426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 87 hit 2",
+"frame": 4888
+},
+{
+"n": 185,
+"t": 163.9801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 87 hit 4",
+"frame": 4916
+},
+{
+"n": 186,
+"t": 164.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 88 - colour",
+"frame": 4930
+},
+{
+"n": 187,
+"t": 164.9176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 88 hit 2",
+"frame": 4944
+},
+{
+"n": 188,
+"t": 165.8551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 88 hit 4",
+"frame": 4972
+},
+{
+"n": 189,
+"t": 166.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 89 - gold",
+"frame": 4986
+},
+{
+"n": 190,
+"t": 166.7926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 89 hit 2",
+"frame": 5000
+},
+{
+"n": 191,
+"t": 167.7301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 89 hit 4",
+"frame": 5028
+},
+{
+"n": 192,
+"t": 168.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 90 - colour",
+"frame": 5042
+},
+{
+"n": 193,
+"t": 168.6676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 90 hit 2",
+"frame": 5056
+},
+{
+"n": 194,
+"t": 169.6051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 90 hit 4",
+"frame": 5084
+},
+{
+"n": 195,
+"t": 170.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 91 - gold",
+"frame": 5098
+},
+{
+"n": 196,
+"t": 170.5426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 91 hit 2",
+"frame": 5113
+},
+{
+"n": 197,
+"t": 171.4801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 91 hit 4",
+"frame": 5141
+},
+{
+"n": 198,
+"t": 171.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 92 - colour",
+"frame": 5155
+},
+{
+"n": 199,
+"t": 172.4176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 92 hit 2",
+"frame": 5169
+},
+{
+"n": 200,
+"t": 173.3551,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 92 hit 4",
+"frame": 5197
+},
+{
+"n": 201,
+"t": 173.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 93 - gold",
+"frame": 5211
+},
+{
+"n": 202,
+"t": 174.2926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 93 hit 2",
+"frame": 5225
+},
+{
+"n": 203,
+"t": 175.2301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "GROOVE B bar 93 hit 4",
+"frame": 5253
+},
+{
+"n": 204,
+"t": 175.6989,
+"fade": 0.8,
+"focus": 1.5,
+"color": 0,
+"label": "BREAK B - gold pillars",
+"frame": 5267
+},
+{
+"n": 205,
+"t": 181.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK - snake + sky snap",
+"frame": 5436
+},
+{
+"n": 206,
+"t": 181.7926,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 97 hit 2",
+"frame": 5450
+},
+{
+"n": 207,
+"t": 182.7301,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 97 hit 4",
+"frame": 5478
+},
+{
+"n": 208,
+"t": 183.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 98 - gold",
+"frame": 5492
+},
+{
+"n": 209,
+"t": 183.6676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 98 hit 2",
+"frame": 5506
+},
+{
+"n": 210,
+"t": 184.6051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 98 hit 4",
+"frame": 5534
+},
+{
+"n": 211,
+"t": 185.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 99 - colour",
+"frame": 5548
+},
+{
+"n": 212,
+"t": 185.5426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 99 hit 2",
+"frame": 5563
+},
+{
+"n": 213,
+"t": 186.4801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BASS BACK bar 99 hit 4",
+"frame": 5591
+},
+{
+"n": 214,
+"t": 186.9489,
+"fade": 1.0,
+"focus": 1.0,
+"color": 0,
+"label": "BUILD 2 - sky sweep",
+"frame": 5605
+},
+{
+"n": 215,
+"t": 188.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 bar 101 rate 100",
+"frame": 5661
+},
+{
+"n": 216,
+"t": 190.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 1",
+"frame": 5717
+},
+{
+"n": 217,
+"t": 190.9332,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 2",
+"frame": 5724
+},
+{
+"n": 218,
+"t": 191.1676,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 3",
+"frame": 5731
+},
+{
+"n": 219,
+"t": 191.402,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 4",
+"frame": 5738
+},
+{
+"n": 220,
+"t": 191.6364,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 5",
+"frame": 5745
+},
+{
+"n": 221,
+"t": 191.8707,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 6",
+"frame": 5752
+},
+{
+"n": 222,
+"t": 192.1051,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 7",
+"frame": 5759
+},
+{
+"n": 223,
+"t": 192.3395,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 8",
+"frame": 5766
+},
+{
+"n": 224,
+"t": 192.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 9",
+"frame": 5773
+},
+{
+"n": 225,
+"t": 192.6911,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 10",
+"frame": 5777
+},
+{
+"n": 226,
+"t": 192.8082,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 11",
+"frame": 5780
+},
+{
+"n": 227,
+"t": 192.9254,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 12",
+"frame": 5784
+},
+{
+"n": 228,
+"t": 193.0426,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 13",
+"frame": 5788
+},
+{
+"n": 229,
+"t": 193.1598,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 14",
+"frame": 5791
+},
+{
+"n": 230,
+"t": 193.277,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 15",
+"frame": 5795
+},
+{
+"n": 231,
+"t": 193.3942,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 16",
+"frame": 5798
+},
+{
+"n": 232,
+"t": 193.5114,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 17",
+"frame": 5802
+},
+{
+"n": 233,
+"t": 193.6286,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 18",
+"frame": 5805
+},
+{
+"n": 234,
+"t": 193.7457,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 19",
+"frame": 5809
+},
+{
+"n": 235,
+"t": 193.8629,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 roll 20",
+"frame": 5812
+},
+{
+"n": 236,
+"t": 193.9801,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "BUILD 2 SUCK OUT",
+"frame": 5816
+},
+{
+"n": 237,
+"t": 194.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP - WHITE BLINDER",
+"frame": 5830
+},
+{
+"n": 238,
+"t": 194.9176,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 104 slam",
+"frame": 5844
+},
+{
+"n": 239,
+"t": 195.3864,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 104.3 ring",
+"frame": 5858
+},
+{
+"n": 240,
+"t": 195.8551,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 104.4 ring",
+"frame": 5872
+},
+{
+"n": 241,
+"t": 196.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 105 slam",
+"frame": 5886
+},
+{
+"n": 242,
+"t": 196.7926,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 105.2 ring",
+"frame": 5900
+},
+{
+"n": 243,
+"t": 197.2614,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 105.3 ring",
+"frame": 5914
+},
+{
+"n": 244,
+"t": 197.7301,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 105.4 ring",
+"frame": 5928
+},
+{
+"n": 245,
+"t": 198.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 106 slam",
+"frame": 5942
+},
+{
+"n": 246,
+"t": 198.6676,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 106.2 ring",
+"frame": 5956
+},
+{
+"n": 247,
+"t": 199.1364,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 106.3 ring",
+"frame": 5970
+},
+{
+"n": 248,
+"t": 199.6051,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 106.4 ring",
+"frame": 5984
+},
+{
+"n": 249,
+"t": 200.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 107 slam",
+"frame": 5998
+},
+{
+"n": 250,
+"t": 200.5426,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 107.2 ring",
+"frame": 6013
+},
+{
+"n": 251,
+"t": 201.0114,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 107.3 ring",
+"frame": 6027
+},
+{
+"n": 252,
+"t": 201.4801,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 107.4 ring",
+"frame": 6041
+},
+{
+"n": 253,
+"t": 201.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 108 snake",
+"frame": 6055
+},
+{
+"n": 254,
+"t": 202.8864,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 108.3 sky flip",
+"frame": 6083
+},
+{
+"n": 255,
+"t": 203.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 109 snake",
+"frame": 6111
+},
+{
+"n": 256,
+"t": 204.7614,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 109.3 sky flip",
+"frame": 6139
+},
+{
+"n": 257,
+"t": 205.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 110 snake",
+"frame": 6167
+},
+{
+"n": 258,
+"t": 206.6364,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 110.3 sky flip",
+"frame": 6195
+},
+{
+"n": 259,
+"t": 207.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 111 snake",
+"frame": 6223
+},
+{
+"n": 260,
+"t": 208.5114,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 111.3 sky flip",
+"frame": 6252
+},
+{
+"n": 261,
+"t": 209.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 112 ping",
+"frame": 6280
+},
+{
+"n": 262,
+"t": 211.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 113 ping",
+"frame": 6336
+},
+{
+"n": 263,
+"t": 213.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 114 ping",
+"frame": 6392
+},
+{
+"n": 264,
+"t": 215.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 115 ping",
+"frame": 6448
+},
+{
+"n": 265,
+"t": 216.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 116 stars",
+"frame": 6505
+},
+{
+"n": 266,
+"t": 217.4176,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 116.2 ring",
+"frame": 6519
+},
+{
+"n": 267,
+"t": 217.8864,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 116.3 ring",
+"frame": 6533
+},
+{
+"n": 268,
+"t": 218.3551,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 116.4 ring",
+"frame": 6547
+},
+{
+"n": 269,
+"t": 218.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 117 stars",
+"frame": 6561
+},
+{
+"n": 270,
+"t": 219.2926,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 117.2 ring",
+"frame": 6575
+},
+{
+"n": 271,
+"t": 219.7614,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 117.3 ring",
+"frame": 6589
+},
+{
+"n": 272,
+"t": 220.2301,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 117.4 ring",
+"frame": 6603
+},
+{
+"n": 273,
+"t": 220.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 118 stars",
+"frame": 6617
+},
+{
+"n": 274,
+"t": 221.1676,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 118.2 ring",
+"frame": 6631
+},
+{
+"n": 275,
+"t": 221.6364,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 118.3 ring",
+"frame": 6645
+},
+{
+"n": 276,
+"t": 222.1051,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 118.4 ring",
+"frame": 6659
+},
+{
+"n": 277,
+"t": 222.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 119 stars",
+"frame": 6673
+},
+{
+"n": 278,
+"t": 223.0426,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 119.2 ring",
+"frame": 6688
+},
+{
+"n": 279,
+"t": 223.5114,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 119.3 ring",
+"frame": 6702
+},
+{
+"n": 280,
+"t": 223.9801,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 119.4 ring",
+"frame": 6716
+},
+{
+"n": 281,
+"t": 224.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 120 wipe",
+"frame": 6730
+},
+{
+"n": 282,
+"t": 226.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 121 wipe",
+"frame": 6786
+},
+{
+"n": 283,
+"t": 228.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 122 wipe",
+"frame": 6842
+},
+{
+"n": 284,
+"t": 230.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 123 wipe",
+"frame": 6898
+},
+{
+"n": 285,
+"t": 231.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 124 slam",
+"frame": 6955
+},
+{
+"n": 286,
+"t": 232.4176,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 124.2 ring",
+"frame": 6969
+},
+{
+"n": 287,
+"t": 232.8864,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 124.3 ring",
+"frame": 6983
+},
+{
+"n": 288,
+"t": 233.3551,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 124.4 ring",
+"frame": 6997
+},
+{
+"n": 289,
+"t": 233.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 125 slam",
+"frame": 7011
+},
+{
+"n": 290,
+"t": 234.2926,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 125.2 ring",
+"frame": 7025
+},
+{
+"n": 291,
+"t": 234.7614,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 125.3 ring",
+"frame": 7039
+},
+{
+"n": 292,
+"t": 235.2301,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 125.4 ring",
+"frame": 7053
+},
+{
+"n": 293,
+"t": 235.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 126 slam",
+"frame": 7067
+},
+{
+"n": 294,
+"t": 236.1676,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 126.2 ring",
+"frame": 7081
+},
+{
+"n": 295,
+"t": 236.6364,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 126.3 ring",
+"frame": 7095
+},
+{
+"n": 296,
+"t": 237.1051,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 126.4 ring",
+"frame": 7109
+},
+{
+"n": 297,
+"t": 237.5739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 127 slam",
+"frame": 7123
+},
+{
+"n": 298,
+"t": 238.0426,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 127.2 ring",
+"frame": 7138
+},
+{
+"n": 299,
+"t": 238.5114,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 127.3 ring",
+"frame": 7152
+},
+{
+"n": 300,
+"t": 238.9801,
+"fade": 0,
+"focus": 0.25,
+"color": 0,
+"label": "FINAL DROP bar 127.4 ring",
+"frame": 7166
+},
+{
+"n": 301,
+"t": 239.4489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 128 snake",
+"frame": 7180
+},
+{
+"n": 302,
+"t": 240.3864,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 128.3 sky flip",
+"frame": 7208
+},
+{
+"n": 303,
+"t": 241.3239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 129 snake",
+"frame": 7236
+},
+{
+"n": 304,
+"t": 242.2614,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 129.3 sky flip",
+"frame": 7264
+},
+{
+"n": 305,
+"t": 243.1989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 130 snake",
+"frame": 7292
+},
+{
+"n": 306,
+"t": 244.1364,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 130.3 sky flip",
+"frame": 7320
+},
+{
+"n": 307,
+"t": 245.0739,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 131 snake",
+"frame": 7348
+},
+{
+"n": 308,
+"t": 246.0114,
+"fade": 0,
+"focus": 0.4,
+"color": 0,
+"label": "FINAL DROP bar 131.3 sky flip",
+"frame": 7377
+},
+{
+"n": 309,
+"t": 246.9489,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 132 ping",
+"frame": 7405
+},
+{
+"n": 310,
+"t": 248.8239,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 133 ping",
+"frame": 7461
+},
+{
+"n": 311,
+"t": 250.6989,
+"fade": 0,
+"focus": 0,
+"color": 0,
+"label": "FINAL DROP bar 134 ping",
+"frame": 7517
+},
+{
+"n": 312,
+"t": 252.5739,
+"fade": 1.5,
+"focus": 1.5,
+"color": 0,
+"label": "OUTRO - gold pillars",
+"frame": 7573
+},
+{
+"n": 313,
+"t": 256.3239,
+"fade": 4,
+"focus": 4,
+"color": 4,
+"label": "pillars to navy",
+"frame": 7686
+},
+{
+"n": 314,
+"t": 261.9489,
+"fade": 6,
+"focus": 6,
+"color": 0,
+"label": "Fade to black",
+"frame": 7855
+}
+]

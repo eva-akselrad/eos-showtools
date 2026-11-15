@@ -1,0 +1,32 @@
+rec   10 @   5.29s  Intro stab 9 - pillar 306
+rec   20 @   9.75s  GROOVE A hat pop
+rec   30 @  12.84s  GROOVE A beat 11 N
+rec   40 @  16.59s  GROOVE A2 beat 3 N
+rec   50 @  19.60s  GROOVE A2 hat pop
+rec   60 @  23.15s  RISER - ring tent + strobe bed
+rec   70 @  27.14s  RISER stack beam 10 (317)
+rec   80 @  29.48s  RISER stack beam 20 (305)
+rec   90 @  31.83s  RISER stack beam 30 (309)
+rec  100 @  34.17s  RISER stack beam 40 (322)
+rec  110 @  39.09s  DROP 1 21.3 A half
+rec  120 @  43.78s  DROP 1 24 A teleport
+rec  130 @  56.10s  Doop star 3/13
+rec  140 @  61.11s  Doop star 13/13
+rec  150 @  66.58s  BASS IN beat 4 S
+rec  160 @  70.35s  BASS OUT solo beam 5
+rec  170 @  74.53s  BASS BACK beat 7 N
+rec  180 @  77.88s  CHORUS 15.3 A half
+rec  190 @  82.07s  CHORUS 18.1 B strobes lead
+rec  200 @  86.26s  CHORUS 20.3 B ring hit
+rec  210 @  91.28s  BASS AGAIN beat 3 N
+rec  220 @  95.89s  BUILD 2 stack beam 3 (302)
+rec  230 @  97.98s  BUILD 2 stack beam 13 (320)
+rec  240 @  99.45s  BUILD 2 stutter 7
+rec  250 @ 103.10s  FINAL DROP 3 A teleport
+rec  260 @ 107.29s  FINAL DROP 5.3 B ring hit
+rec  270 @ 111.48s  FINAL DROP 8.1 B ring hit
+rec  280 @ 115.67s  FINAL DROP 10.3 C N
+rec  290 @ 119.86s  FINAL DROP 13.1 D teleport
+rec  300 @ 124.05s  FINAL DROP 15.3 D teleport
+events: 309
+cues 309 commands 4001

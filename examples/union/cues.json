@@ -3,2826 +3,2781 @@
 "n": 1,
 "t": 0.0,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
 "label": "PRESET - Subaru Park dark",
 "frame": 0
 },
 {
 "n": 2,
-"t": 0.19,
+"t": 0.842,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "IMPACT - stadium ignites",
-"frame": 2
+"label": "Intro stab 1 - pillar 310",
+"frame": 22
 },
 {
 "n": 3,
-"t": 0.55,
-"fade": 1.5,
-"focus": 1.5,
+"t": 1.3,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Navy pillars rise W-E",
-"frame": 13
+"label": "Intro stab 2 - pillar 311",
+"frame": 35
 },
 {
 "n": 4,
-"t": 1.3239,
-"fade": 0.6,
-"focus": 1.875,
+"t": 1.892,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Intro bar 1 - gold N",
-"frame": 36
+"label": "Intro stab 3 - pillar 309",
+"frame": 53
 },
 {
 "n": 5,
-"t": 3.1989,
-"fade": 0.6,
-"focus": 1.875,
+"t": 2.473,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Intro bar 2 - gold S",
-"frame": 92
+"label": "Intro stab 4 - pillar 312",
+"frame": 70
 },
 {
 "n": 6,
-"t": 5.0739,
-"fade": 0.6,
-"focus": 1.875,
+"t": 2.949,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Intro bar 3 - gold N",
-"frame": 148
+"label": "Intro stab 5 - pillar 308",
+"frame": 85
 },
 {
 "n": 7,
-"t": 6.9489,
-"fade": 0.6,
-"focus": 1.8749999999999991,
+"t": 3.413,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Intro bar 4 - gold S",
-"frame": 205
+"label": "Intro stab 6 - pillar 313",
+"frame": 99
 },
 {
 "n": 8,
-"t": 8.8239,
-"fade": 0.6,
-"focus": 1.875,
+"t": 4.348,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Intro bar 5 - gold N",
-"frame": 261
+"label": "Intro stab 7 - pillar 307",
+"frame": 127
 },
 {
 "n": 9,
-"t": 10.6989,
-"fade": 0.6,
-"focus": 1.875,
+"t": 4.824,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Intro bar 6 - gold S",
-"frame": 317
+"label": "Intro stab 8 - pillar 314",
+"frame": 141
 },
 {
 "n": 10,
-"t": 12.5739,
-"fade": 1.2,
-"focus": 2.5,
+"t": 5.294,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "TONE - golden crown",
-"frame": 373
+"label": "Intro stab 9 - pillar 306",
+"frame": 155
 },
 {
 "n": 11,
-"t": 14.4489,
+"t": 5.648,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "crown sparkles",
-"frame": 430
+"label": "Intro stab 10 - pillar 315",
+"frame": 166
 },
 {
 "n": 12,
-"t": 16.3239,
+"t": 6.2795,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A - snake + sky snap",
-"frame": 486
+"label": "TONE - 40 beams snap to the crown",
+"frame": 185
 },
 {
 "n": 13,
-"t": 16.7926,
+"t": 7.217,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 9 hit 2",
-"frame": 500
+"label": "crown + random strobe glitter",
+"frame": 213
 },
 {
 "n": 14,
-"t": 17.7301,
+"t": 8.1544,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 9 hit 4",
-"frame": 528
+"label": "GROOVE A beat 1 N",
+"frame": 241
 },
 {
 "n": 15,
-"t": 18.1989,
+"t": 8.353,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 10 - gold",
-"frame": 542
+"label": "GROOVE A hat pop",
+"frame": 247
 },
 {
 "n": 16,
-"t": 18.6676,
+"t": 8.6231,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 10 hit 2",
-"frame": 556
+"label": "GROOVE A beat 2 S",
+"frame": 255
 },
 {
 "n": 17,
-"t": 19.6051,
+"t": 8.812,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 10 hit 4",
-"frame": 584
+"label": "GROOVE A hat pop",
+"frame": 261
 },
 {
 "n": 18,
-"t": 20.0739,
+"t": 9.0919,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 11 - colour",
-"frame": 598
+"label": "GROOVE A beat 3 N",
+"frame": 269
 },
 {
 "n": 19,
-"t": 20.5426,
+"t": 9.5606,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 11 hit 2",
-"frame": 613
+"label": "GROOVE A beat 4 S",
+"frame": 283
 },
 {
 "n": 20,
-"t": 21.4801,
+"t": 9.752,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 11 hit 4",
-"frame": 641
+"label": "GROOVE A hat pop",
+"frame": 289
 },
 {
 "n": 21,
-"t": 21.9489,
+"t": 10.0293,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 12 - gold",
-"frame": 655
+"label": "GROOVE A beat 5 N",
+"frame": 297
 },
 {
 "n": 22,
-"t": 22.4176,
+"t": 10.498,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 12 hit 2",
-"frame": 669
+"label": "GROOVE A beat 6 S",
+"frame": 311
 },
 {
 "n": 23,
-"t": 23.3551,
+"t": 10.699,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 12 hit 4",
-"frame": 697
+"label": "GROOVE A hat pop",
+"frame": 317
 },
 {
 "n": 24,
-"t": 23.8239,
+"t": 10.9668,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 13 - colour",
-"frame": 711
+"label": "GROOVE A beat 7 N",
+"frame": 325
 },
 {
 "n": 25,
-"t": 24.2926,
+"t": 11.4355,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 13 hit 2",
-"frame": 725
+"label": "GROOVE A beat 8 S",
+"frame": 339
 },
 {
 "n": 26,
-"t": 25.2301,
+"t": 11.627,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 13 hit 4",
-"frame": 753
+"label": "GROOVE A hat pop",
+"frame": 345
 },
 {
 "n": 27,
-"t": 25.6989,
+"t": 11.9042,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 14 - gold",
-"frame": 767
+"label": "GROOVE A beat 9 N",
+"frame": 353
 },
 {
 "n": 28,
-"t": 26.1676,
+"t": 12.3729,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 14 hit 2",
-"frame": 781
+"label": "GROOVE A beat 10 S",
+"frame": 367
 },
 {
 "n": 29,
-"t": 27.1051,
+"t": 12.568,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 14 hit 4",
-"frame": 809
+"label": "GROOVE A hat pop",
+"frame": 373
 },
 {
 "n": 30,
-"t": 27.5739,
+"t": 12.8417,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 15 - colour",
-"frame": 823
+"label": "GROOVE A beat 11 N",
+"frame": 382
 },
 {
 "n": 31,
-"t": 28.0426,
+"t": 13.3104,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 15 hit 2",
-"frame": 838
+"label": "GROOVE A beat 12 S",
+"frame": 396
 },
 {
 "n": 32,
-"t": 28.9801,
+"t": 13.502,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 15 hit 4",
-"frame": 866
+"label": "GROOVE A hat pop",
+"frame": 401
 },
 {
 "n": 33,
-"t": 29.4489,
+"t": 13.7791,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 16 - gold",
-"frame": 880
+"label": "GROOVE A beat 13 N",
+"frame": 410
 },
 {
 "n": 34,
-"t": 29.9176,
+"t": 14.2478,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 16 hit 2",
-"frame": 894
+"label": "GROOVE A beat 14 S",
+"frame": 424
 },
 {
 "n": 35,
-"t": 30.8551,
+"t": 14.7166,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 16 hit 4",
-"frame": 922
+"label": "GROOVE A beat 15 N",
+"frame": 438
 },
 {
 "n": 36,
-"t": 31.3239,
+"t": 15.1853,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 17 - colour",
-"frame": 936
+"label": "GROOVE A beat 16 S",
+"frame": 452
 },
 {
 "n": 37,
-"t": 31.7926,
+"t": 15.654,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 17 hit 2",
-"frame": 950
+"label": "GROOVE A2 beat 1 N",
+"frame": 466
 },
 {
 "n": 38,
-"t": 32.7301,
+"t": 16.1227,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 17 hit 4",
-"frame": 978
+"label": "GROOVE A2 beat 2 S",
+"frame": 480
 },
 {
 "n": 39,
-"t": 33.1989,
+"t": 16.318,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 18 - gold",
-"frame": 992
+"label": "GROOVE A2 hat pop",
+"frame": 486
 },
 {
 "n": 40,
-"t": 33.6676,
+"t": 16.5915,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 18 hit 2",
-"frame": 1006
+"label": "GROOVE A2 beat 3 N",
+"frame": 494
 },
 {
 "n": 41,
-"t": 34.6051,
+"t": 17.0602,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 18 hit 4",
-"frame": 1034
+"label": "GROOVE A2 beat 4 S",
+"frame": 508
 },
 {
 "n": 42,
-"t": 35.0739,
+"t": 17.252,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 19 - colour",
-"frame": 1048
+"label": "GROOVE A2 hat pop",
+"frame": 514
 },
 {
 "n": 43,
-"t": 35.5426,
+"t": 17.5289,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 19 hit 2",
-"frame": 1063
+"label": "GROOVE A2 beat 5 N",
+"frame": 522
 },
 {
 "n": 44,
-"t": 36.4801,
+"t": 17.723,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 19 hit 4",
-"frame": 1091
+"label": "GROOVE A2 hat pop",
+"frame": 528
 },
 {
 "n": 45,
-"t": 36.9489,
+"t": 17.9976,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 20 - gold",
-"frame": 1105
+"label": "GROOVE A2 beat 6 S",
+"frame": 536
 },
 {
 "n": 46,
-"t": 37.4176,
+"t": 18.4664,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 20 hit 2",
-"frame": 1119
+"label": "GROOVE A2 beat 7 N",
+"frame": 550
 },
 {
 "n": 47,
-"t": 38.3551,
+"t": 18.9351,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 20 hit 4",
-"frame": 1147
+"label": "GROOVE A2 beat 8 S",
+"frame": 564
 },
 {
 "n": 48,
-"t": 38.8239,
+"t": 19.133,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 21 - colour",
-"frame": 1161
+"label": "GROOVE A2 hat pop",
+"frame": 570
 },
 {
 "n": 49,
-"t": 39.2926,
+"t": 19.4038,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 21 hit 2",
-"frame": 1175
+"label": "GROOVE A2 beat 9 N",
+"frame": 578
 },
 {
 "n": 50,
-"t": 40.2301,
+"t": 19.598,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 21 hit 4",
-"frame": 1203
+"label": "GROOVE A2 hat pop",
+"frame": 584
 },
 {
 "n": 51,
-"t": 40.6989,
+"t": 19.8725,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 22 - gold",
-"frame": 1217
+"label": "GROOVE A2 beat 10 S",
+"frame": 592
 },
 {
 "n": 52,
-"t": 41.1676,
+"t": 20.062,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 22 hit 2",
-"frame": 1231
+"label": "GROOVE A2 hat pop",
+"frame": 598
 },
 {
 "n": 53,
-"t": 42.1051,
+"t": 20.3413,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE A bar 22 hit 4",
-"frame": 1259
+"label": "GROOVE A2 beat 11 N",
+"frame": 606
 },
 {
 "n": 54,
-"t": 42.5739,
-"fade": 0.8,
-"focus": 1.5,
+"t": 20.81,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BREAK A - gold pillars",
-"frame": 1273
+"label": "GROOVE A2 beat 12 S",
+"frame": 621
 },
 {
 "n": 55,
-"t": 46.3239,
-"fade": 1.0,
-"focus": 1.0,
+"t": 21.002,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER - sky sweep",
-"frame": 1386
+"label": "GROOVE A2 hat pop",
+"frame": 626
 },
 {
 "n": 56,
-"t": 48.1989,
+"t": 21.2787,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 26 rate 100",
-"frame": 1442
+"label": "BREAK A solo beam 1",
+"frame": 635
 },
 {
 "n": 57,
-"t": 50.0739,
+"t": 21.7474,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 27 rate 100",
-"frame": 1498
+"label": "BREAK A solo beam 2",
+"frame": 649
 },
 {
 "n": 58,
-"t": 51.9489,
+"t": 22.2162,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 28 rate 125",
-"frame": 1555
+"label": "BREAK A solo beam 3",
+"frame": 663
 },
 {
 "n": 59,
-"t": 53.8239,
+"t": 22.6849,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 29 rate 125",
-"frame": 1611
+"label": "BREAK A solo beam 4",
+"frame": 677
 },
 {
 "n": 60,
-"t": 55.6989,
-"fade": 0,
-"focus": 0,
+"t": 23.1536,
+"fade": 0.8,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 30 rate 150",
-"frame": 1667
+"label": "RISER - ring tent + strobe bed",
+"frame": 691
 },
 {
 "n": 61,
-"t": 57.5739,
+"t": 25.0285,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 31 rate 150",
-"frame": 1723
+"label": "RISER stack beam 1 (311)",
+"frame": 747
 },
 {
 "n": 62,
-"t": 59.4489,
+"t": 25.2629,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 32 rate 200",
-"frame": 1780
+"label": "RISER stack beam 2 (327)",
+"frame": 754
 },
 {
 "n": 63,
-"t": 61.3239,
+"t": 25.4972,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 33 rate 200",
-"frame": 1836
+"label": "RISER stack beam 3 (339)",
+"frame": 761
 },
 {
 "n": 64,
-"t": 63.1989,
+"t": 25.7316,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 34 rate 250",
-"frame": 1892
+"label": "RISER stack beam 4 (319)",
+"frame": 768
 },
 {
 "n": 65,
-"t": 65.0739,
+"t": 25.966,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 35 rate 300",
-"frame": 1948
+"label": "RISER stack beam 5 (331)",
+"frame": 775
 },
 {
 "n": 66,
-"t": 66.9489,
+"t": 26.2003,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 36 rate 350",
-"frame": 2005
+"label": "RISER stack beam 6 (314)",
+"frame": 782
 },
 {
 "n": 67,
-"t": 68.8239,
+"t": 26.4347,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 37 rate 400",
-"frame": 2061
+"label": "RISER stack beam 7 (336)",
+"frame": 789
 },
 {
 "n": 68,
-"t": 70.6989,
+"t": 26.669,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER bar 38 rate 400",
-"frame": 2117
+"label": "RISER stack beam 8 (333)",
+"frame": 796
 },
 {
 "n": 69,
-"t": 72.5739,
+"t": 26.9034,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 1",
-"frame": 2173
+"label": "RISER stack beam 9 (312)",
+"frame": 803
 },
 {
 "n": 70,
-"t": 72.8083,
+"t": 27.1378,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 2",
-"frame": 2180
+"label": "RISER stack beam 10 (317)",
+"frame": 810
 },
 {
 "n": 71,
-"t": 73.0426,
+"t": 27.3721,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 3",
-"frame": 2188
+"label": "RISER stack beam 11 (334)",
+"frame": 817
 },
 {
 "n": 72,
-"t": 73.277,
+"t": 27.6065,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 4",
-"frame": 2195
+"label": "RISER stack beam 12 (308)",
+"frame": 824
 },
 {
 "n": 73,
-"t": 73.5114,
+"t": 27.8409,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 5",
-"frame": 2202
+"label": "RISER stack beam 13 (326)",
+"frame": 831
 },
 {
 "n": 74,
-"t": 73.7458,
+"t": 28.0752,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 6",
-"frame": 2209
+"label": "RISER stack beam 14 (301)",
+"frame": 839
 },
 {
 "n": 75,
-"t": 73.9801,
+"t": 28.3096,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 7",
-"frame": 2216
+"label": "RISER stack beam 15 (338)",
+"frame": 846
 },
 {
 "n": 76,
-"t": 74.2145,
+"t": 28.5439,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 8",
-"frame": 2223
+"label": "RISER stack beam 16 (332)",
+"frame": 853
 },
 {
 "n": 77,
-"t": 74.4489,
+"t": 28.7783,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 9",
-"frame": 2230
+"label": "RISER stack beam 17 (337)",
+"frame": 860
 },
 {
 "n": 78,
-"t": 74.5661,
+"t": 29.0127,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 10",
-"frame": 2233
+"label": "RISER stack beam 18 (335)",
+"frame": 867
 },
 {
 "n": 79,
-"t": 74.6833,
+"t": 29.247,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 11",
-"frame": 2237
+"label": "RISER stack beam 19 (303)",
+"frame": 874
 },
 {
 "n": 80,
-"t": 74.8004,
+"t": 29.4814,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 12",
-"frame": 2240
+"label": "RISER stack beam 20 (305)",
+"frame": 881
 },
 {
 "n": 81,
-"t": 74.9176,
+"t": 29.7158,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 13",
-"frame": 2244
+"label": "RISER stack beam 21 (329)",
+"frame": 888
 },
 {
 "n": 82,
-"t": 75.0348,
+"t": 29.9501,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 14",
-"frame": 2247
+"label": "RISER stack beam 22 (320)",
+"frame": 895
 },
 {
 "n": 83,
-"t": 75.152,
+"t": 30.1845,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 15",
-"frame": 2251
+"label": "RISER stack beam 23 (302)",
+"frame": 902
 },
 {
 "n": 84,
-"t": 75.2692,
+"t": 30.4188,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 16",
-"frame": 2254
+"label": "RISER stack beam 24 (323)",
+"frame": 909
 },
 {
 "n": 85,
-"t": 75.3864,
+"t": 30.6532,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 17",
-"frame": 2258
+"label": "RISER stack beam 25 (330)",
+"frame": 916
 },
 {
 "n": 86,
-"t": 75.5036,
+"t": 30.8876,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 18",
-"frame": 2261
+"label": "RISER stack beam 26 (310)",
+"frame": 923
 },
 {
 "n": 87,
-"t": 75.6208,
+"t": 31.1219,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 19",
-"frame": 2265
+"label": "RISER stack beam 27 (324)",
+"frame": 930
 },
 {
 "n": 88,
-"t": 75.7379,
+"t": 31.3563,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER roll 20",
-"frame": 2268
+"label": "RISER stack beam 28 (328)",
+"frame": 937
 },
 {
 "n": 89,
-"t": 75.8551,
+"t": 31.5907,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "RISER SUCK OUT",
-"frame": 2272
+"label": "RISER stack beam 29 (306)",
+"frame": 944
 },
 {
 "n": 90,
-"t": 76.3239,
+"t": 31.825,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 - WHITE BLINDER",
-"frame": 2286
+"label": "RISER stack beam 30 (309)",
+"frame": 951
 },
 {
 "n": 91,
-"t": 76.7926,
+"t": 32.0594,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 41 slam",
-"frame": 2300
+"label": "RISER stack beam 31 (316)",
+"frame": 958
 },
 {
 "n": 92,
-"t": 77.2614,
+"t": 32.2937,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 41.3 ring",
-"frame": 2314
+"label": "RISER stack beam 32 (318)",
+"frame": 965
 },
 {
 "n": 93,
-"t": 77.7301,
+"t": 32.5281,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 41.4 ring",
-"frame": 2328
+"label": "RISER stack beam 33 (325)",
+"frame": 972
 },
 {
 "n": 94,
-"t": 78.1989,
+"t": 32.7625,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 42 slam",
-"frame": 2342
+"label": "RISER stack beam 34 (313)",
+"frame": 979
 },
 {
 "n": 95,
-"t": 78.6676,
+"t": 32.9968,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 42.2 ring",
-"frame": 2356
+"label": "RISER stack beam 35 (340)",
+"frame": 986
 },
 {
 "n": 96,
-"t": 79.1364,
+"t": 33.2312,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 42.3 ring",
-"frame": 2370
+"label": "RISER stack beam 36 (307)",
+"frame": 993
 },
 {
 "n": 97,
-"t": 79.6051,
+"t": 33.4656,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 42.4 ring",
-"frame": 2384
+"label": "RISER stack beam 37 (321)",
+"frame": 1000
 },
 {
 "n": 98,
-"t": 80.0739,
+"t": 33.6999,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 43 slam",
-"frame": 2398
+"label": "RISER stack beam 38 (304)",
+"frame": 1007
 },
 {
 "n": 99,
-"t": 80.5426,
+"t": 33.9343,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 43.2 ring",
-"frame": 2413
+"label": "RISER stack beam 39 (315)",
+"frame": 1014
 },
 {
 "n": 100,
-"t": 81.0114,
+"t": 34.1686,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 43.3 ring",
-"frame": 2427
+"label": "RISER stack beam 40 (322)",
+"frame": 1021
 },
 {
 "n": 101,
-"t": 81.4801,
+"t": 36.2779,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 43.4 ring",
-"frame": 2441
+"label": "RISER stutter 1",
+"frame": 1085
 },
 {
 "n": 102,
-"t": 81.9489,
+"t": 36.3951,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "DROP 1 bar 44 slam",
-"frame": 2455
+"label": "RISER stutter 2",
+"frame": 1088
 },
 {
 "n": 103,
-"t": 82.4176,
+"t": 36.5123,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 44.2 ring",
-"frame": 2469
+"label": "RISER stutter 3",
+"frame": 1092
 },
 {
 "n": 104,
-"t": 82.8864,
+"t": 36.6294,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 44.3 ring",
-"frame": 2483
+"label": "RISER stutter 4",
+"frame": 1095
 },
 {
 "n": 105,
-"t": 83.3551,
+"t": 36.7466,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 44.4 ring",
-"frame": 2497
+"label": "RISER stutter 5",
+"frame": 1099
 },
 {
 "n": 106,
-"t": 83.8239,
+"t": 36.8638,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "DROP 1 bar 45 snake",
-"frame": 2511
+"label": "RISER stutter 6",
+"frame": 1102
 },
 {
 "n": 107,
-"t": 84.7614,
+"t": 36.981,
 "fade": 0,
-"focus": 0.4,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 45.3 sky flip",
-"frame": 2539
+"label": "RISER SUCK OUT",
+"frame": 1106
 },
 {
 "n": 108,
-"t": 85.6989,
+"t": 38.1528,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 46 snake",
-"frame": 2567
+"label": "DROP 1 - WHITE BLINDER",
+"frame": 1141
 },
 {
 "n": 109,
-"t": 86.6364,
+"t": 38.6215,
 "fade": 0,
-"focus": 0.4,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 46.3 sky flip",
-"frame": 2595
+"label": "DROP 1 21.2 A",
+"frame": 1155
 },
 {
 "n": 110,
-"t": 87.5739,
+"t": 39.0903,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "DROP 1 bar 47 snake",
-"frame": 2623
+"label": "DROP 1 21.3 A half",
+"frame": 1169
 },
 {
 "n": 111,
-"t": 88.5114,
+"t": 39.559,
 "fade": 0,
-"focus": 0.4,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 47.3 sky flip",
-"frame": 2652
+"label": "DROP 1 21.4 A",
+"frame": 1183
 },
 {
 "n": 112,
-"t": 89.4489,
+"t": 40.0277,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 48 snake",
-"frame": 2680
+"label": "DROP 1 22 A teleport",
+"frame": 1197
 },
 {
 "n": 113,
-"t": 90.3864,
+"t": 40.4964,
 "fade": 0,
-"focus": 0.4,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 48.3 sky flip",
-"frame": 2708
+"label": "DROP 1 22.2 A",
+"frame": 1211
 },
 {
 "n": 114,
-"t": 91.3239,
+"t": 40.9652,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "DROP 1 bar 49 stars",
-"frame": 2736
+"label": "DROP 1 22.3 A half",
+"frame": 1225
 },
 {
 "n": 115,
-"t": 91.7926,
+"t": 41.4339,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 49.2 ring",
-"frame": 2750
+"label": "DROP 1 22.4 A",
+"frame": 1239
 },
 {
 "n": 116,
-"t": 92.2614,
+"t": 41.9026,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 49.3 ring",
-"frame": 2764
+"label": "DROP 1 23 A teleport",
+"frame": 1253
 },
 {
 "n": 117,
-"t": 92.7301,
+"t": 42.3713,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 49.4 ring",
-"frame": 2778
+"label": "DROP 1 23.2 A",
+"frame": 1267
 },
 {
 "n": 118,
-"t": 93.1989,
+"t": 42.8401,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "DROP 1 bar 50 stars",
-"frame": 2792
+"label": "DROP 1 23.3 A half",
+"frame": 1281
 },
 {
 "n": 119,
-"t": 93.6676,
+"t": 43.3088,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 50.2 ring",
-"frame": 2806
+"label": "DROP 1 23.4 A",
+"frame": 1296
 },
 {
 "n": 120,
-"t": 94.1364,
+"t": 43.7775,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 50.3 ring",
-"frame": 2820
+"label": "DROP 1 24 A teleport",
+"frame": 1310
 },
 {
 "n": 121,
-"t": 94.6051,
+"t": 44.2462,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 50.4 ring",
-"frame": 2834
+"label": "DROP 1 24.2 A",
+"frame": 1324
 },
 {
 "n": 122,
-"t": 95.0739,
+"t": 44.7149,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "DROP 1 bar 51 stars",
-"frame": 2848
+"label": "DROP 1 24.3 A half",
+"frame": 1338
 },
 {
 "n": 123,
-"t": 95.5426,
+"t": 45.1837,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "DROP 1 bar 51.2 ring",
-"frame": 2863
+"label": "DROP 1 24.4 A",
+"frame": 1352
 },
 {
 "n": 124,
-"t": 96.0114,
-"fade": 0,
-"focus": 0.25,
+"t": 45.6524,
+"fade": 1.5,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 51.3 ring",
-"frame": 2877
+"label": "Drop 1 decays - crown",
+"frame": 1366
 },
 {
 "n": 125,
-"t": 96.4801,
-"fade": 0,
-"focus": 0.25,
+"t": 47.5273,
+"fade": 2.5,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 51.4 ring",
-"frame": 2891
+"label": "decay - half the beams",
+"frame": 1422
 },
 {
 "n": 126,
-"t": 96.9489,
-"fade": 0,
-"focus": 0,
+"t": 51.25,
+"fade": 1.5,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 52 stars",
-"frame": 2905
+"label": "SILENCE",
+"frame": 1534
 },
 {
 "n": 127,
-"t": 97.4176,
-"fade": 0,
-"focus": 0.25,
+"t": 53.18,
+"fade": 2.0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 52.2 ring",
-"frame": 2919
+"label": "Silence - one gold beam",
+"frame": 1592
 },
 {
 "n": 128,
-"t": 97.8864,
+"t": 55.261,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 52.3 ring",
-"frame": 2933
+"label": "Doop star 1/13",
+"frame": 1654
 },
 {
 "n": 129,
-"t": 98.3551,
+"t": 55.676,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 52.4 ring",
-"frame": 2947
+"label": "Doop star 2/13",
+"frame": 1667
 },
 {
 "n": 130,
-"t": 98.8239,
+"t": 56.099,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 53 ping",
-"frame": 2961
+"label": "Doop star 3/13",
+"frame": 1679
 },
 {
 "n": 131,
-"t": 100.6989,
+"t": 56.506,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DROP 1 bar 54 ping",
-"frame": 3017
+"label": "Doop star 4/13",
+"frame": 1691
 },
 {
 "n": 132,
-"t": 102.5739,
-"fade": 0.8,
-"focus": 2.0,
+"t": 56.938,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "TONE 2 - golden crown",
-"frame": 3073
+"label": "Doop star 5/13",
+"frame": 1704
 },
 {
 "n": 133,
-"t": 106.3239,
+"t": 57.359,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "crown sparkles",
-"frame": 3186
+"label": "Doop star 6/13",
+"frame": 1717
 },
 {
 "n": 134,
-"t": 108.6,
+"t": 57.774,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "SILENCE",
-"frame": 3254
+"label": "Doop star 7/13",
+"frame": 1729
 },
 {
 "n": 135,
-"t": 108.77,
+"t": 58.401,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "DOOP! - full stadium",
-"frame": 3259
+"label": "Doop star 8/13",
+"frame": 1748
 },
 {
 "n": 136,
-"t": 109.05,
-"fade": 0.8,
-"focus": 1.2,
-"color": 0.8,
-"label": "Union split - gold north / navy south",
-"frame": 3268
+"t": 59.031,
+"fade": 0,
+"focus": 0.08,
+"color": 0,
+"label": "Doop star 9/13",
+"frame": 1767
 },
 {
 "n": 137,
-"t": 111.9489,
-"fade": 0.5,
-"focus": 0.5,
+"t": 59.452,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "Doop - sky circles",
-"frame": 3355
+"label": "Doop star 10/13",
+"frame": 1780
 },
 {
 "n": 138,
-"t": 115.6989,
-"fade": 1.5,
-"focus": 3.75,
-"color": 1.5,
-"label": "Doop bar 62 - swap",
-"frame": 3467
+"t": 59.864,
+"fade": 0,
+"focus": 0.08,
+"color": 0,
+"label": "Doop star 11/13",
+"frame": 1792
 },
 {
 "n": 139,
-"t": 119.4489,
-"fade": 1.5,
-"focus": 3.75,
-"color": 1.5,
-"label": "Doop bar 64 - swap",
-"frame": 3580
+"t": 60.703,
+"fade": 0,
+"focus": 0.08,
+"color": 0,
+"label": "Doop star 12/13",
+"frame": 1817
 },
 {
 "n": 140,
-"t": 123.1989,
-"fade": 1.5,
-"focus": 3.75,
-"color": 1.5,
-"label": "Doop bar 66 - swap",
-"frame": 3692
+"t": 61.112,
+"fade": 0,
+"focus": 0.08,
+"color": 0,
+"label": "Doop star 13/13",
+"frame": 1830
 },
 {
 "n": 141,
-"t": 126.9489,
-"fade": 1.5,
-"focus": 3.749999999999986,
-"color": 1.5,
-"label": "Doop bar 68 - swap",
-"frame": 3805
+"t": 61.965,
+"fade": 0,
+"focus": 0.08,
+"color": 0,
+"label": "Doop clap 1",
+"frame": 1855
 },
 {
 "n": 142,
-"t": 130.6989,
+"t": 62.383,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN - snake + sky snap",
-"frame": 3917
+"label": "Doop clap 2",
+"frame": 1868
 },
 {
 "n": 143,
-"t": 131.1676,
+"t": 62.801,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 70 hit 2",
-"frame": 3931
+"label": "Doop clap 3",
+"frame": 1880
 },
 {
 "n": 144,
-"t": 132.1051,
+"t": 63.19,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 70 hit 4",
-"frame": 3959
+"label": "Doop clap 4",
+"frame": 1892
 },
 {
 "n": 145,
-"t": 132.5739,
+"t": 64.006,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 71 - gold",
-"frame": 3973
+"label": "Doop clap 5",
+"frame": 1916
 },
 {
 "n": 146,
-"t": 133.0426,
+"t": 65.103,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 71 hit 2",
-"frame": 3988
+"label": "Doop clap 6",
+"frame": 1949
 },
 {
 "n": 147,
-"t": 133.9801,
+"t": 65.3205,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 71 hit 4",
-"frame": 4016
+"label": "BASS IN beat 1 N",
+"frame": 1956
 },
 {
 "n": 148,
-"t": 134.4489,
+"t": 65.7392,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 72 - colour",
-"frame": 4030
+"label": "BASS IN beat 2 S",
+"frame": 1968
 },
 {
 "n": 149,
-"t": 134.9176,
+"t": 66.1579,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 72 hit 2",
-"frame": 4044
+"label": "BASS IN beat 3 N",
+"frame": 1981
 },
 {
 "n": 150,
-"t": 135.8551,
+"t": 66.5766,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS IN bar 72 hit 4",
-"frame": 4072
+"label": "BASS IN beat 4 S",
+"frame": 1994
 },
 {
 "n": 151,
-"t": 136.3239,
-"fade": 0.8,
-"focus": 1.5,
+"t": 66.9953,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "CALM - gold pillars",
-"frame": 4086
+"label": "BASS IN beat 5 N",
+"frame": 2006
 },
 {
 "n": 152,
-"t": 140.0739,
+"t": 67.414,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "calm - sky circles",
-"frame": 4198
+"label": "BASS IN beat 6 S",
+"frame": 2019
 },
 {
 "n": 153,
-"t": 143.8239,
+"t": 67.8328,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B - snake + sky snap",
-"frame": 4311
+"label": "BASS IN beat 7 N",
+"frame": 2031
 },
 {
 "n": 154,
-"t": 144.2926,
+"t": 68.2515,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 77 hit 2",
-"frame": 4325
+"label": "BASS IN beat 8 S",
+"frame": 2044
 },
 {
 "n": 155,
-"t": 145.2301,
+"t": 68.592,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 77 hit 4",
-"frame": 4353
+"label": "BASS IN hat pop",
+"frame": 2054
 },
 {
 "n": 156,
-"t": 145.6989,
+"t": 68.6702,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 78 - colour",
-"frame": 4367
+"label": "BASS OUT solo beam 1",
+"frame": 2056
 },
 {
 "n": 157,
-"t": 146.1676,
+"t": 69.0889,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 78 hit 2",
-"frame": 4381
+"label": "BASS OUT solo beam 2",
+"frame": 2069
 },
 {
 "n": 158,
-"t": 147.1051,
+"t": 69.5076,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 78 hit 4",
-"frame": 4409
+"label": "BASS OUT solo beam 3",
+"frame": 2081
 },
 {
 "n": 159,
-"t": 147.5739,
+"t": 69.9264,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 79 - gold",
-"frame": 4423
+"label": "BASS OUT solo beam 4",
+"frame": 2094
 },
 {
 "n": 160,
-"t": 148.0426,
+"t": 70.3451,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 79 hit 2",
-"frame": 4438
+"label": "BASS OUT solo beam 5",
+"frame": 2107
 },
 {
 "n": 161,
-"t": 148.9801,
+"t": 70.7638,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 79 hit 4",
-"frame": 4466
+"label": "BASS OUT solo beam 6",
+"frame": 2119
 },
 {
 "n": 162,
-"t": 149.4489,
+"t": 71.1825,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 80 - colour",
-"frame": 4480
+"label": "BASS OUT solo beam 7",
+"frame": 2132
 },
 {
 "n": 163,
-"t": 149.9176,
+"t": 71.6012,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 80 hit 2",
-"frame": 4494
+"label": "BASS OUT solo beam 8",
+"frame": 2144
 },
 {
 "n": 164,
-"t": 150.8551,
+"t": 72.02,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 80 hit 4",
-"frame": 4522
+"label": "BASS BACK beat 1 N",
+"frame": 2157
 },
 {
 "n": 165,
-"t": 151.3239,
+"t": 72.4387,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 81 - gold",
-"frame": 4536
+"label": "BASS BACK beat 2 S",
+"frame": 2169
 },
 {
 "n": 166,
-"t": 151.7926,
+"t": 72.8574,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 81 hit 2",
-"frame": 4550
+"label": "BASS BACK beat 3 N",
+"frame": 2182
 },
 {
 "n": 167,
-"t": 152.7301,
+"t": 73.2761,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 81 hit 4",
-"frame": 4578
+"label": "BASS BACK beat 4 S",
+"frame": 2195
 },
 {
 "n": 168,
-"t": 153.1989,
+"t": 73.6948,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 82 - colour",
-"frame": 4592
+"label": "BASS BACK beat 5 N",
+"frame": 2207
 },
 {
 "n": 169,
-"t": 153.6676,
+"t": 74.1135,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 82 hit 2",
-"frame": 4606
+"label": "BASS BACK beat 6 S",
+"frame": 2220
 },
 {
 "n": 170,
-"t": 154.6051,
+"t": 74.5323,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 82 hit 4",
-"frame": 4634
+"label": "BASS BACK beat 7 N",
+"frame": 2232
 },
 {
 "n": 171,
-"t": 155.0739,
+"t": 74.844,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 83 - gold",
-"frame": 4648
+"label": "BASS BACK hat pop",
+"frame": 2242
 },
 {
 "n": 172,
-"t": 155.5426,
+"t": 74.951,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 83 hit 2",
-"frame": 4663
+"label": "BASS BACK beat 8 S",
+"frame": 2245
 },
 {
 "n": 173,
-"t": 156.4801,
+"t": 75.279,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 83 hit 4",
-"frame": 4691
+"label": "BASS BACK hat pop",
+"frame": 2255
 },
 {
 "n": 174,
-"t": 156.9489,
+"t": 75.3697,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 84 - colour",
-"frame": 4705
+"label": "CHORUS - WHITE BLINDER",
+"frame": 2257
 },
 {
 "n": 175,
-"t": 157.4176,
+"t": 75.7884,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 84 hit 2",
-"frame": 4719
+"label": "CHORUS 14.2 A",
+"frame": 2270
 },
 {
 "n": 176,
-"t": 158.3551,
+"t": 76.2071,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 84 hit 4",
-"frame": 4747
+"label": "CHORUS 14.3 A half",
+"frame": 2282
 },
 {
 "n": 177,
-"t": 158.8239,
+"t": 76.6259,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 85 - gold",
-"frame": 4761
+"label": "CHORUS 14.4 A",
+"frame": 2295
 },
 {
 "n": 178,
-"t": 159.2926,
+"t": 77.0446,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 85 hit 2",
-"frame": 4775
+"label": "CHORUS 15 A teleport",
+"frame": 2308
 },
 {
 "n": 179,
-"t": 160.2301,
+"t": 77.4633,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 85 hit 4",
-"frame": 4803
+"label": "CHORUS 15.2 A",
+"frame": 2320
 },
 {
 "n": 180,
-"t": 160.6989,
+"t": 77.882,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 86 - colour",
-"frame": 4817
+"label": "CHORUS 15.3 A half",
+"frame": 2333
 },
 {
 "n": 181,
-"t": 161.1676,
+"t": 78.3007,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 86 hit 2",
-"frame": 4831
+"label": "CHORUS 15.4 A",
+"frame": 2345
 },
 {
 "n": 182,
-"t": 162.1051,
+"t": 78.7195,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 86 hit 4",
-"frame": 4859
+"label": "CHORUS 16 A teleport",
+"frame": 2358
 },
 {
 "n": 183,
-"t": 162.5739,
+"t": 79.1382,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 87 - gold",
-"frame": 4873
+"label": "CHORUS 16.2 A",
+"frame": 2370
 },
 {
 "n": 184,
-"t": 163.0426,
+"t": 79.5569,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 87 hit 2",
-"frame": 4888
+"label": "CHORUS 16.3 A half",
+"frame": 2383
 },
 {
 "n": 185,
-"t": 163.9801,
+"t": 79.9756,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 87 hit 4",
-"frame": 4916
+"label": "CHORUS 16.4 A",
+"frame": 2396
 },
 {
 "n": 186,
-"t": 164.4489,
+"t": 80.3943,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 88 - colour",
-"frame": 4930
+"label": "CHORUS 17 A teleport",
+"frame": 2408
 },
 {
 "n": 187,
-"t": 164.9176,
+"t": 80.8131,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 88 hit 2",
-"frame": 4944
+"label": "CHORUS 17.2 A",
+"frame": 2421
 },
 {
 "n": 188,
-"t": 165.8551,
+"t": 81.2318,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 88 hit 4",
-"frame": 4972
+"label": "CHORUS 17.3 A half",
+"frame": 2433
 },
 {
 "n": 189,
-"t": 166.3239,
+"t": 81.6505,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 89 - gold",
-"frame": 4986
+"label": "CHORUS 17.4 A",
+"frame": 2446
 },
 {
 "n": 190,
-"t": 166.7926,
+"t": 82.0692,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 89 hit 2",
-"frame": 5000
+"label": "CHORUS 18.1 B strobes lead",
+"frame": 2458
 },
 {
 "n": 191,
-"t": 167.7301,
+"t": 82.4879,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 89 hit 4",
-"frame": 5028
+"label": "CHORUS 18.2 B ring off",
+"frame": 2471
 },
 {
 "n": 192,
-"t": 168.1989,
+"t": 82.9066,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 90 - colour",
-"frame": 5042
+"label": "CHORUS 18.3 B ring hit",
+"frame": 2483
 },
 {
 "n": 193,
-"t": 168.6676,
+"t": 83.3254,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 90 hit 2",
-"frame": 5056
+"label": "CHORUS 18.4 B ring off",
+"frame": 2496
 },
 {
 "n": 194,
-"t": 169.6051,
+"t": 83.7441,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 90 hit 4",
-"frame": 5084
+"label": "CHORUS 19.1 B ring hit",
+"frame": 2509
 },
 {
 "n": 195,
-"t": 170.0739,
+"t": 84.1628,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 91 - gold",
-"frame": 5098
+"label": "CHORUS 19.2 B ring off",
+"frame": 2521
 },
 {
 "n": 196,
-"t": 170.5426,
+"t": 84.5815,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 91 hit 2",
-"frame": 5113
+"label": "CHORUS 19.3 B ring hit",
+"frame": 2534
 },
 {
 "n": 197,
-"t": 171.4801,
+"t": 85.0002,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 91 hit 4",
-"frame": 5141
+"label": "CHORUS 19.4 B ring off",
+"frame": 2546
 },
 {
 "n": 198,
-"t": 171.9489,
+"t": 85.419,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 92 - colour",
-"frame": 5155
+"label": "CHORUS 20.1 B ring hit",
+"frame": 2559
 },
 {
 "n": 199,
-"t": 172.4176,
+"t": 85.8377,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 92 hit 2",
-"frame": 5169
+"label": "CHORUS 20.2 B ring off",
+"frame": 2571
 },
 {
 "n": 200,
-"t": 173.3551,
+"t": 86.2564,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 92 hit 4",
-"frame": 5197
+"label": "CHORUS 20.3 B ring hit",
+"frame": 2584
 },
 {
 "n": 201,
-"t": 173.8239,
+"t": 86.6751,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 93 - gold",
-"frame": 5211
+"label": "CHORUS 20.4 B ring off",
+"frame": 2597
 },
 {
 "n": 202,
-"t": 174.2926,
+"t": 87.0938,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "GROOVE B bar 93 hit 2",
-"frame": 5225
+"label": "BREAK B - north answers alone",
+"frame": 2609
 },
 {
 "n": 203,
-"t": 175.2301,
+"t": 87.876,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "GROOVE B bar 93 hit 4",
-"frame": 5253
+"label": "BREAK B pop 1",
+"frame": 2633
 },
 {
 "n": 204,
-"t": 175.6989,
-"fade": 0.8,
-"focus": 1.5,
+"t": 88.259,
+"fade": 0,
+"focus": 0,
 "color": 0,
-"label": "BREAK B - gold pillars",
-"frame": 5267
+"label": "BREAK B pop 2",
+"frame": 2644
 },
 {
 "n": 205,
-"t": 181.3239,
+"t": 89.089,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "BASS BACK - snake + sky snap",
-"frame": 5436
+"label": "BREAK B pop 3",
+"frame": 2669
 },
 {
 "n": 206,
-"t": 181.7926,
+"t": 89.507,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "BASS BACK bar 97 hit 2",
-"frame": 5450
+"label": "BREAK B pop 4",
+"frame": 2681
 },
 {
 "n": 207,
-"t": 182.7301,
+"t": 90.395,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "BASS BACK bar 97 hit 4",
-"frame": 5478
+"label": "BREAK B pop 5",
+"frame": 2708
 },
 {
 "n": 208,
-"t": 183.1989,
+"t": 90.4436,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS BACK bar 98 - gold",
-"frame": 5492
+"label": "BASS AGAIN beat 1 N",
+"frame": 2710
 },
 {
 "n": 209,
-"t": 183.6676,
+"t": 90.8623,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS BACK bar 98 hit 2",
-"frame": 5506
+"label": "BASS AGAIN beat 2 S",
+"frame": 2722
 },
 {
 "n": 210,
-"t": 184.6051,
+"t": 91.281,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS BACK bar 98 hit 4",
-"frame": 5534
+"label": "BASS AGAIN beat 3 N",
+"frame": 2735
 },
 {
 "n": 211,
-"t": 185.0739,
+"t": 91.6997,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS BACK bar 99 - colour",
-"frame": 5548
+"label": "BASS AGAIN beat 4 S",
+"frame": 2747
 },
 {
 "n": 212,
-"t": 185.5426,
+"t": 92.1185,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS BACK bar 99 hit 2",
-"frame": 5563
+"label": "BASS AGAIN beat 5 N",
+"frame": 2760
 },
 {
 "n": 213,
-"t": 186.4801,
+"t": 92.5372,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BASS BACK bar 99 hit 4",
-"frame": 5591
+"label": "BASS AGAIN beat 6 S",
+"frame": 2772
 },
 {
 "n": 214,
-"t": 186.9489,
-"fade": 1.0,
-"focus": 1.0,
+"t": 92.9559,
+"fade": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 - sky sweep",
-"frame": 5605
+"label": "BASS AGAIN beat 7 N",
+"frame": 2785
 },
 {
 "n": 215,
-"t": 188.8239,
+"t": 93.3746,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 bar 101 rate 100",
-"frame": 5661
+"label": "BASS AGAIN beat 8 S",
+"frame": 2797
 },
 {
 "n": 216,
-"t": 190.6989,
+"t": 93.698,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 1",
-"frame": 5717
+"label": "BASS AGAIN hat pop",
+"frame": 2807
 },
 {
 "n": 217,
-"t": 190.9332,
-"fade": 0,
-"focus": 0,
+"t": 93.7933,
+"fade": 0.8,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 2",
-"frame": 5724
+"label": "BUILD 2 - ring tent + strobe bed",
+"frame": 2810
 },
 {
 "n": 218,
-"t": 191.1676,
+"t": 95.4682,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 3",
-"frame": 5731
+"label": "BUILD 2 stack beam 1 (309)",
+"frame": 2860
 },
 {
 "n": 219,
-"t": 191.402,
+"t": 95.6776,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 4",
-"frame": 5738
+"label": "BUILD 2 stack beam 2 (316)",
+"frame": 2867
 },
 {
 "n": 220,
-"t": 191.6364,
+"t": 95.8869,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 5",
-"frame": 5745
+"label": "BUILD 2 stack beam 3 (302)",
+"frame": 2873
 },
 {
 "n": 221,
-"t": 191.8707,
+"t": 96.0963,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 6",
-"frame": 5752
+"label": "BUILD 2 stack beam 4 (329)",
+"frame": 2879
 },
 {
 "n": 222,
-"t": 192.1051,
+"t": 96.3057,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 7",
-"frame": 5759
+"label": "BUILD 2 stack beam 5 (312)",
+"frame": 2885
 },
 {
 "n": 223,
-"t": 192.3395,
+"t": 96.515,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 8",
-"frame": 5766
+"label": "BUILD 2 stack beam 6 (308)",
+"frame": 2892
 },
 {
 "n": 224,
-"t": 192.5739,
+"t": 96.7244,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 9",
-"frame": 5773
+"label": "BUILD 2 stack beam 7 (323)",
+"frame": 2898
 },
 {
 "n": 225,
-"t": 192.6911,
+"t": 96.9337,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 10",
-"frame": 5777
+"label": "BUILD 2 stack beam 8 (306)",
+"frame": 2904
 },
 {
 "n": 226,
-"t": 192.8082,
+"t": 97.1431,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 11",
-"frame": 5780
+"label": "BUILD 2 stack beam 9 (315)",
+"frame": 2911
 },
 {
 "n": 227,
-"t": 192.9254,
+"t": 97.3525,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 12",
-"frame": 5784
+"label": "BUILD 2 stack beam 10 (340)",
+"frame": 2917
 },
 {
 "n": 228,
-"t": 193.0426,
+"t": 97.5618,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 13",
-"frame": 5788
+"label": "BUILD 2 stack beam 11 (338)",
+"frame": 2923
 },
 {
 "n": 229,
-"t": 193.1598,
+"t": 97.7712,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 14",
-"frame": 5791
+"label": "BUILD 2 stack beam 12 (311)",
+"frame": 2929
 },
 {
 "n": 230,
-"t": 193.277,
+"t": 97.9805,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 15",
-"frame": 5795
+"label": "BUILD 2 stack beam 13 (320)",
+"frame": 2936
 },
 {
 "n": 231,
-"t": 193.3942,
+"t": 98.1899,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 16",
-"frame": 5798
+"label": "BUILD 2 stack beam 14 (333)",
+"frame": 2942
 },
 {
 "n": 232,
-"t": 193.5114,
+"t": 98.3992,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 17",
-"frame": 5802
+"label": "BUILD 2 stack beam 15 (318)",
+"frame": 2948
 },
 {
 "n": 233,
-"t": 193.6286,
+"t": 98.6086,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "BUILD 2 roll 18",
-"frame": 5805
+"label": "BUILD 2 stack beam 16 (322)",
+"frame": 2955
 },
 {
 "n": 234,
-"t": 193.7457,
+"t": 98.818,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "BUILD 2 roll 19",
-"frame": 5809
+"label": "BUILD 2 stutter 1",
+"frame": 2961
 },
 {
 "n": 235,
-"t": 193.8629,
+"t": 98.9226,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "BUILD 2 roll 20",
-"frame": 5812
+"label": "BUILD 2 stutter 2",
+"frame": 2964
 },
 {
 "n": 236,
-"t": 193.9801,
+"t": 99.0273,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "BUILD 2 SUCK OUT",
-"frame": 5816
+"label": "BUILD 2 stutter 3",
+"frame": 2967
 },
 {
 "n": 237,
-"t": 194.4489,
+"t": 99.132,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP - WHITE BLINDER",
-"frame": 5830
+"label": "BUILD 2 stutter 4",
+"frame": 2970
 },
 {
 "n": 238,
-"t": 194.9176,
+"t": 99.2367,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 104 slam",
-"frame": 5844
+"label": "BUILD 2 stutter 5",
+"frame": 2973
 },
 {
 "n": 239,
-"t": 195.3864,
+"t": 99.3414,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 104.3 ring",
-"frame": 5858
+"label": "BUILD 2 stutter 6",
+"frame": 2976
 },
 {
 "n": 240,
-"t": 195.8551,
+"t": 99.446,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 104.4 ring",
-"frame": 5872
+"label": "BUILD 2 stutter 7",
+"frame": 2980
 },
 {
 "n": 241,
-"t": 196.3239,
+"t": 99.5507,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 105 slam",
-"frame": 5886
+"label": "BUILD 2 SUCK OUT",
+"frame": 2983
 },
 {
 "n": 242,
-"t": 196.7926,
+"t": 99.7485,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 105.2 ring",
-"frame": 5900
+"label": "FINAL DROP - WHITE BLINDER",
+"frame": 2989
 },
 {
 "n": 243,
-"t": 197.2614,
+"t": 100.1675,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 105.3 ring",
-"frame": 5914
+"label": "FINAL DROP 1.2 A",
+"frame": 3001
 },
 {
 "n": 244,
-"t": 197.7301,
+"t": 100.5866,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 105.4 ring",
-"frame": 5928
+"label": "FINAL DROP 1.3 A half",
+"frame": 3014
 },
 {
 "n": 245,
-"t": 198.1989,
+"t": 101.0056,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 106 slam",
-"frame": 5942
+"label": "FINAL DROP 1.4 A",
+"frame": 3026
 },
 {
 "n": 246,
-"t": 198.6676,
+"t": 101.4246,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 106.2 ring",
-"frame": 5956
+"label": "FINAL DROP 2 A teleport",
+"frame": 3039
 },
 {
 "n": 247,
-"t": 199.1364,
+"t": 101.8437,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 106.3 ring",
-"frame": 5970
+"label": "FINAL DROP 2.2 A",
+"frame": 3052
 },
 {
 "n": 248,
-"t": 199.6051,
+"t": 102.2627,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 106.4 ring",
-"frame": 5984
+"label": "FINAL DROP 2.3 A half",
+"frame": 3064
 },
 {
 "n": 249,
-"t": 200.0739,
+"t": 102.6818,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 107 slam",
-"frame": 5998
+"label": "FINAL DROP 2.4 A",
+"frame": 3077
 },
 {
 "n": 250,
-"t": 200.5426,
+"t": 103.1008,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 107.2 ring",
-"frame": 6013
+"label": "FINAL DROP 3 A teleport",
+"frame": 3089
 },
 {
 "n": 251,
-"t": 201.0114,
+"t": 103.5198,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 107.3 ring",
-"frame": 6027
+"label": "FINAL DROP 3.2 A",
+"frame": 3102
 },
 {
 "n": 252,
-"t": 201.4801,
+"t": 103.9389,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 107.4 ring",
-"frame": 6041
+"label": "FINAL DROP 3.3 A half",
+"frame": 3114
 },
 {
 "n": 253,
-"t": 201.9489,
+"t": 104.3579,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 108 snake",
-"frame": 6055
+"label": "FINAL DROP 3.4 A",
+"frame": 3127
 },
 {
 "n": 254,
-"t": 202.8864,
+"t": 104.7769,
 "fade": 0,
-"focus": 0.4,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 108.3 sky flip",
-"frame": 6083
+"label": "FINAL DROP 4 A teleport",
+"frame": 3140
 },
 {
 "n": 255,
-"t": 203.8239,
+"t": 105.196,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 109 snake",
-"frame": 6111
+"label": "FINAL DROP 4.2 A",
+"frame": 3152
 },
 {
 "n": 256,
-"t": 204.7614,
+"t": 105.615,
 "fade": 0,
-"focus": 0.4,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 109.3 sky flip",
-"frame": 6139
+"label": "FINAL DROP 4.3 A half",
+"frame": 3165
 },
 {
 "n": 257,
-"t": 205.6989,
+"t": 106.0341,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 110 snake",
-"frame": 6167
+"label": "FINAL DROP 4.4 A",
+"frame": 3177
 },
 {
 "n": 258,
-"t": 206.6364,
+"t": 106.4531,
 "fade": 0,
-"focus": 0.4,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 110.3 sky flip",
-"frame": 6195
+"label": "FINAL DROP 5.1 B strobes lead",
+"frame": 3190
 },
 {
 "n": 259,
-"t": 207.5739,
+"t": 106.8721,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 111 snake",
-"frame": 6223
+"label": "FINAL DROP 5.2 B ring off",
+"frame": 3202
 },
 {
 "n": 260,
-"t": 208.5114,
+"t": 107.2912,
 "fade": 0,
-"focus": 0.4,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 111.3 sky flip",
-"frame": 6252
+"label": "FINAL DROP 5.3 B ring hit",
+"frame": 3215
 },
 {
 "n": 261,
-"t": 209.4489,
+"t": 107.7102,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 112 ping",
-"frame": 6280
+"label": "FINAL DROP 5.4 B ring off",
+"frame": 3228
 },
 {
 "n": 262,
-"t": 211.3239,
+"t": 108.1292,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 113 ping",
-"frame": 6336
+"label": "FINAL DROP 6.1 B ring hit",
+"frame": 3240
 },
 {
 "n": 263,
-"t": 213.1989,
+"t": 108.5483,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 114 ping",
-"frame": 6392
+"label": "FINAL DROP 6.2 B ring off",
+"frame": 3253
 },
 {
 "n": 264,
-"t": 215.0739,
+"t": 108.9673,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 115 ping",
-"frame": 6448
+"label": "FINAL DROP 6.3 B ring hit",
+"frame": 3265
 },
 {
 "n": 265,
-"t": 216.9489,
+"t": 109.3864,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 116 stars",
-"frame": 6505
+"label": "FINAL DROP 6.4 B ring off",
+"frame": 3278
 },
 {
 "n": 266,
-"t": 217.4176,
+"t": 109.8054,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 116.2 ring",
-"frame": 6519
+"label": "FINAL DROP 7.1 B ring hit",
+"frame": 3290
 },
 {
 "n": 267,
-"t": 217.8864,
+"t": 110.2244,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 116.3 ring",
-"frame": 6533
+"label": "FINAL DROP 7.2 B ring off",
+"frame": 3303
 },
 {
 "n": 268,
-"t": 218.3551,
+"t": 110.6435,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 116.4 ring",
-"frame": 6547
+"label": "FINAL DROP 7.3 B ring hit",
+"frame": 3316
 },
 {
 "n": 269,
-"t": 218.8239,
+"t": 111.0625,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 117 stars",
-"frame": 6561
+"label": "FINAL DROP 7.4 B ring off",
+"frame": 3328
 },
 {
 "n": 270,
-"t": 219.2926,
+"t": 111.4815,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 117.2 ring",
-"frame": 6575
+"label": "FINAL DROP 8.1 B ring hit",
+"frame": 3341
 },
 {
 "n": 271,
-"t": 219.7614,
+"t": 111.9006,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 117.3 ring",
-"frame": 6589
+"label": "FINAL DROP 8.2 B ring off",
+"frame": 3353
 },
 {
 "n": 272,
-"t": 220.2301,
+"t": 112.3196,
 "fade": 0,
-"focus": 0.25,
+"focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 117.4 ring",
-"frame": 6603
+"label": "FINAL DROP 8.3 B ring hit",
+"frame": 3366
 },
 {
 "n": 273,
-"t": 220.6989,
+"t": 112.7386,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 118 stars",
-"frame": 6617
+"label": "FINAL DROP 8.4 B ring off",
+"frame": 3378
 },
 {
 "n": 274,
-"t": 221.1676,
+"t": 113.1577,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 118.2 ring",
-"frame": 6631
+"label": "FINAL DROP 9.1 C N",
+"frame": 3391
 },
 {
 "n": 275,
-"t": 221.6364,
+"t": 113.5767,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 118.3 ring",
-"frame": 6645
+"label": "FINAL DROP 9.2 C S",
+"frame": 3404
 },
 {
 "n": 276,
-"t": 222.1051,
+"t": 113.9958,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 118.4 ring",
-"frame": 6659
+"label": "FINAL DROP 9.3 C N",
+"frame": 3416
 },
 {
 "n": 277,
-"t": 222.5739,
+"t": 114.4148,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 119 stars",
-"frame": 6673
+"label": "FINAL DROP 9.4 C S",
+"frame": 3429
 },
 {
 "n": 278,
-"t": 223.0426,
+"t": 114.8338,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 119.2 ring",
-"frame": 6688
+"label": "FINAL DROP 10.1 C N",
+"frame": 3441
 },
 {
 "n": 279,
-"t": 223.5114,
+"t": 115.2529,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 119.3 ring",
-"frame": 6702
+"label": "FINAL DROP 10.2 C S",
+"frame": 3454
 },
 {
 "n": 280,
-"t": 223.9801,
+"t": 115.6719,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 119.4 ring",
-"frame": 6716
+"label": "FINAL DROP 10.3 C N",
+"frame": 3466
 },
 {
 "n": 281,
-"t": 224.4489,
+"t": 116.0909,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 120 wipe",
-"frame": 6730
+"label": "FINAL DROP 10.4 C S",
+"frame": 3479
 },
 {
 "n": 282,
-"t": 226.3239,
+"t": 116.51,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 121 wipe",
-"frame": 6786
+"label": "FINAL DROP 11.1 C N",
+"frame": 3492
 },
 {
 "n": 283,
-"t": 228.1989,
+"t": 116.929,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 122 wipe",
-"frame": 6842
+"label": "FINAL DROP 11.2 C S",
+"frame": 3504
 },
 {
 "n": 284,
-"t": 230.0739,
+"t": 117.3481,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 123 wipe",
-"frame": 6898
+"label": "FINAL DROP 11.3 C N",
+"frame": 3517
 },
 {
 "n": 285,
-"t": 231.9489,
+"t": 117.7671,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 124 slam",
-"frame": 6955
+"label": "FINAL DROP 11.4 C S",
+"frame": 3529
 },
 {
 "n": 286,
-"t": 232.4176,
+"t": 118.1861,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 124.2 ring",
-"frame": 6969
+"label": "FINAL DROP 12.1 C N",
+"frame": 3542
 },
 {
 "n": 287,
-"t": 232.8864,
+"t": 118.6052,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 124.3 ring",
-"frame": 6983
+"label": "FINAL DROP 12.2 C S",
+"frame": 3554
 },
 {
 "n": 288,
-"t": 233.3551,
+"t": 119.0242,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 124.4 ring",
-"frame": 6997
+"label": "FINAL DROP 12.3 C N",
+"frame": 3567
 },
 {
 "n": 289,
-"t": 233.8239,
+"t": 119.4432,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 125 slam",
-"frame": 7011
+"label": "FINAL DROP 12.4 C S",
+"frame": 3580
 },
 {
 "n": 290,
-"t": 234.2926,
+"t": 119.8623,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 125.2 ring",
-"frame": 7025
+"label": "FINAL DROP 13.1 D teleport",
+"frame": 3592
 },
 {
 "n": 291,
-"t": 234.7614,
+"t": 120.2813,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 125.3 ring",
-"frame": 7039
+"label": "FINAL DROP 13.2 D teleport",
+"frame": 3605
 },
 {
 "n": 292,
-"t": 235.2301,
+"t": 120.7004,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 125.4 ring",
-"frame": 7053
+"label": "FINAL DROP 13.3 D teleport",
+"frame": 3617
 },
 {
 "n": 293,
-"t": 235.6989,
+"t": 121.1194,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 126 slam",
-"frame": 7067
+"label": "FINAL DROP 13.4 D teleport",
+"frame": 3630
 },
 {
 "n": 294,
-"t": 236.1676,
+"t": 121.5384,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 126.2 ring",
-"frame": 7081
+"label": "FINAL DROP 14.1 D teleport",
+"frame": 3642
 },
 {
 "n": 295,
-"t": 236.6364,
+"t": 121.9575,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 126.3 ring",
-"frame": 7095
+"label": "FINAL DROP 14.2 D teleport",
+"frame": 3655
 },
 {
 "n": 296,
-"t": 237.1051,
+"t": 122.3765,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 126.4 ring",
-"frame": 7109
+"label": "FINAL DROP 14.3 D teleport",
+"frame": 3668
 },
 {
 "n": 297,
-"t": 237.5739,
+"t": 122.7955,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 127 slam",
-"frame": 7123
+"label": "FINAL DROP 14.4 D teleport",
+"frame": 3680
 },
 {
 "n": 298,
-"t": 238.0426,
+"t": 123.2146,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 127.2 ring",
-"frame": 7138
+"label": "FINAL DROP 15.1 D teleport",
+"frame": 3693
 },
 {
 "n": 299,
-"t": 238.5114,
+"t": 123.6336,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 127.3 ring",
-"frame": 7152
+"label": "FINAL DROP 15.2 D teleport",
+"frame": 3705
 },
 {
 "n": 300,
-"t": 238.9801,
+"t": 124.0526,
 "fade": 0,
-"focus": 0.25,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 127.4 ring",
-"frame": 7166
+"label": "FINAL DROP 15.3 D teleport",
+"frame": 3718
 },
 {
 "n": 301,
-"t": 239.4489,
+"t": 124.4717,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 128 snake",
-"frame": 7180
+"label": "FINAL DROP 15.4 D teleport",
+"frame": 3730
 },
 {
 "n": 302,
-"t": 240.3864,
+"t": 124.8907,
 "fade": 0,
-"focus": 0.4,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 128.3 sky flip",
-"frame": 7208
+"label": "FINAL DROP 16.1 D teleport",
+"frame": 3743
 },
 {
 "n": 303,
-"t": 241.3239,
+"t": 125.3098,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 129 snake",
-"frame": 7236
+"label": "FINAL DROP 16.2 D teleport",
+"frame": 3756
 },
 {
 "n": 304,
-"t": 242.2614,
+"t": 125.7288,
 "fade": 0,
-"focus": 0.4,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 129.3 sky flip",
-"frame": 7264
+"label": "FINAL DROP 16.3 D teleport",
+"frame": 3768
 },
 {
 "n": 305,
-"t": 243.1989,
+"t": 126.1478,
 "fade": 0,
-"focus": 0,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 130 snake",
-"frame": 7292
+"label": "FINAL DROP 16.4 D teleport",
+"frame": 3781
 },
 {
 "n": 306,
-"t": 244.1364,
+"t": 126.5669,
 "fade": 0,
-"focus": 0.4,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 130.3 sky flip",
-"frame": 7320
+"label": "OUTRO - gold pillars",
+"frame": 3793
 },
 {
 "n": 307,
-"t": 245.0739,
+"t": 127.791,
 "fade": 0,
 "focus": 0,
 "color": 0,
-"label": "FINAL DROP bar 131 snake",
-"frame": 7348
+"label": "OUTRO pop 1",
+"frame": 3830
 },
 {
 "n": 308,
-"t": 246.0114,
-"fade": 0,
-"focus": 0.4,
-"color": 0,
-"label": "FINAL DROP bar 131.3 sky flip",
-"frame": 7377
+"t": 130.6,
+"fade": 1.0,
+"focus": 0.08,
+"color": 1.0,
+"label": "pillars to navy",
+"frame": 3914
 },
 {
 "n": 309,
-"t": 246.9489,
-"fade": 0,
-"focus": 0,
+"t": 131.6,
+"fade": 1.2,
+"focus": 0.08,
 "color": 0,
-"label": "FINAL DROP bar 132 ping",
-"frame": 7405
-},
-{
-"n": 310,
-"t": 248.8239,
-"fade": 0,
-"focus": 0,
-"color": 0,
-"label": "FINAL DROP bar 133 ping",
-"frame": 7461
-},
-{
-"n": 311,
-"t": 250.6989,
-"fade": 0,
-"focus": 0,
-"color": 0,
-"label": "FINAL DROP bar 134 ping",
-"frame": 7517
-},
-{
-"n": 312,
-"t": 252.5739,
-"fade": 1.5,
-"focus": 1.5,
-"color": 0,
-"label": "OUTRO - gold pillars",
-"frame": 7573
-},
-{
-"n": 313,
-"t": 256.3239,
-"fade": 4,
-"focus": 4,
-"color": 4,
-"label": "pillars to navy",
-"frame": 7686
-},
-{
-"n": 314,
-"t": 261.9489,
-"fade": 6,
-"focus": 6,
-"color": 0,
-"label": "Fade to black",
-"frame": 7855
+"label": "BLACKOUT",
+"frame": 3944
 }
 ]
