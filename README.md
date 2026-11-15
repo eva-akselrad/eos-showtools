@@ -83,6 +83,7 @@ showtools/
 ├── onsets.py          event list for non-grid (cinematic) tracks
 ├── analyze.py         first-generation analyser (used by volatile_reaction)
 ├── runtest.py         play from Reaper, measure every cue fire, screenshot Augment3d
+├── render_video.py    render the show to an MP4 with the song (clock-synced capture of Augment3d)
 ├── reaper_load.py     safe front-end for the Reaper Lua scripts
 ├── a3d_place.py       place fixtures in Augment3d from a patch dump (Patch command line)
 ├── a3d_inspector.py   type into the Augment3d Edit Mode Inspector (objects: deck, truss)

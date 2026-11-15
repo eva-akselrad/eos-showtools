@@ -241,3 +241,22 @@ Screenshot the Augment3d area, optionally as a sequence of frames.
 | `dev/zoomspec.py song.wav analysis.json out.png t0 t1 [t0 t1 ...]` | Mel spectrogram strips with **beat numbers** and an RMS curve, for finding drops and gaps by eye. |
 | `dev/specplot.py song.wav analysis.json out.png` | Whole-song spectrogram in 4 rows with bar numbers. |
 | `dev/survey.py FOLDER` | Tempo survey of the candidate MP3s in a folder. |
+
+### `render_video.py`
+
+```
+python render_video.py examples\union --list 7 --wav "C:\...\Union Mashup v2.wav" [--out out\union.mp4]
+                       [--dur S] [--fps 30] [--width 1280] [--pre 1.0] [--crf 20] [--av-offset 0.07]
+```
+
+Plays the show from Reaper (same setup as `runtest.py`) and renders the Augment3d view to an MP4
+with the song.
+- **Timing:** each output frame is grabbed at its exact song-time instant. It uses the same QPC
+  mapping that `runtest.py` uses (`play_sync.lua` logs Reaper's audible position).
+- **Repeated frames:** if a grab runs late, the previous frame is repeated, so the timeline never
+  drifts. The Union render repeated 1.1% of frames.
+- **Audio:** the song WAV is muxed on the same song-time origin. `--av-offset` delays it to match
+  Augment3d's own render lag, measured at a median of 68 ms from cue to picture change, so the
+  picture looks the way it would on a real rig.
+- **Report:** it prints the cue-fire report as well.
+- **Window:** keep Eos in front, in Live, on the Augment3d tab, for the whole render.
