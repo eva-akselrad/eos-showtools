@@ -1,6 +1,6 @@
 # Union: a Philadelphia Union show at Subaru Park
 
-- **Venue:** Subaru Park, a Mini Skyline GLB (OpenStreetMap / Overture data; see the model's attribution files) imported into Augment3d at **Scale 10.4**, Rotation (−90, 0, 80), Position (69.9, −13.7, −2.94). That makes the pitch a true 104 × 64 m, centred on the world origin with its long axis on X.
+- **Venue:** Subaru Park, a [Mini Skyline](https://miniskyline.com) GLB built from OpenStreetMap, Overture Maps and open elevation data (see [Model credits](#model-credits)) imported into Augment3d at **Scale 10.4**, Rotation (−90, 0, 80), Position (69.9, −13.7, −2.94). That makes the pitch a true 104 × 64 m, centred on the world origin with its long axis on X.
 - **Audio:** a mashup of *Party Till We Die* (MAKJ & Timmy Trumpet ft. Andrew W.K.) and the Philadelphia Union "Doop" song. 128.000 BPM, 4:26. Not included.
 - **Eos:** cue list 7, event list 7 (MIDI timecode). **309 cues**, groups 701–740, palettes CP 71–76, FP 71–78 / 81–84, effects 880–895.
 - **Measured (v3):** all 308 timed cues fired, −45 … +64 ms, median +7 ms.
@@ -95,3 +95,24 @@ python reaper_load.py split-timecode --seconds 280   # MTC past 3:00 (see below)
 length (~3:00), even when the item is lengthened. `reaper/split_timecode.lua` adds a second
 generator item from 2:50 whose timecode starts at 2:50. Eos chases straight across the join.
 
+
+## Model credits
+
+The stadium model (`subaru-park.glb`, "Landmark - Subaru Park") was made with
+[Mini Skyline](https://miniskyline.com). **The model file itself is not included in this repo**;
+only the show, the scripts and the full attribution it came with. Generate your own from Mini Skyline to rebuild the example.
+
+- Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), available under the
+  [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/).
+- Building, transportation and base-map data from [Overture Maps](https://docs.overturemaps.org/attribution/)
+  (release 2026-09-23.1), © OpenStreetMap contributors, Overture Maps Foundation and theme source contributors.
+- Elevation: Mapterhorn terrain tiles ([sources](https://mapterhorn.com/attribution/)), including Copernicus
+  WorldDEM-30 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018, and USGS.
+- Ground colours: modified Copernicus Sentinel data / ESA WorldCover (CC BY 4.0).
+
+The complete required credit text is in [`miniskylines_attribution.txt`](miniskylines_attribution.txt), and the
+per-source licences are in [`miniskylines_sources.json`](miniskylines_sources.json).
+
+Subaru Park's name and design may be protected by trademark or copyright. Mini Skyline and this project are not
+affiliated with or endorsed by the stadium's owners or any team. The Philadelphia Union name and the songs
+are used only to describe the example; no audio is included.
